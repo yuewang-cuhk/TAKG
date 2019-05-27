@@ -1,0 +1,4945 @@
+manufacturing engineering;product testing
+metaphysics;philosophy of science;cosmology;philosophy of physics
+security;wallet;encryption
+public transport;uk;manchester
+probability;hand
+homework;mitochondria
+language acquisition
+bedtime;reading
+work;seasonal;alaska
+abstract algebra;quantum groups
+cricket;tournaments;icc
+mahayana;enlightenment;nirvana;dalai lama
+removal;urinary system;penis;death
+bronze age;iron age
+battery;charging;droid eris
+tickets;finland;events
+structural geology
+agent;queries
+historical linguistics;pronoun;portuguese
+all in;probability
+keyboard;mapping;parallels desktop
+diet;weightlifting;calories;bodybuilding;weight gain
+mechanical engineering;engineering history;timing
+software;sensors;kinect
+planetary science;saturn;moons
+intelligence testing;prediction
+ipad;gps
+everyday chemistry;thermodynamics
+epistemology;buddhism;rationality;eastern philosophy;difference
+fiscal policy;debt;government;public economics
+black scholes;differential equations
+exchanges;options
+sports;swimming;back
+newborn;first time;doctor
+india;rudeness;lgbt+
+dogs;behavior
+fluid mechanics
+toddler;development;speech
+applications;sync;backup;restore
+united states;california;property
+fiction;retrograde analysis;studies
+field;recorder;selling;buying
+discipline;habit;notes
+aquarium;turtles;hygiene
+orbital mechanics;low earth orbit;orbital maneuver;isro;mars orbiter mission
+algebra precalculus;arithmetic;complex numbers;fake proofs
+algorithms;data structures;lower bounds;heaps
+please remove this tag;drinks;coffee
+wifi hotspot;wifi tethering;htc dream
+algorithms
+number theory;algorithms;prime numbers;primality test
+behavior;parents;age appropriate;social development;profanity
+machine learning;artificial intelligence;neural networks
+correlation;portfolio selection
+poker strategy;reading hands
+urology
+mechanism
+market impact;models
+graph theory
+probability theory
+finance;banking;interest rate;debt
+flight planning;flight controls
+psycholinguistics;native language;neurolinguistics
+rules;castling;history
+trigonometry
+heating;biogas
+cats;psychology
+online;tournament
+plot explanation;the departed
+motor;quadcopter;multi rotor
+real analysis;sequences and series;analysis
+william shakespeare;the merchant of venice
+primary schooler;eating
+kitchen
+water;water management;personal hygiene
+practice;scales
+philosophy of science;metaphysics;physics
+nutrition
+knives
+employment;australia
+rope;knots;bowline knots
+sequences and series
+ycombinator;yc startup school;applying
+mac
+iphone;audio
+energy efficiency;heating
+plot explanation;v for vendetta
+transport;asphalt;concrete
+united states;healthcare
+starcraft DIGIT
+fuel
+recording;room;reverb
+toddler;behavior;tantrums
+decision theory;uncertainty;long run;development
+complexity theory;np complete;reference request;approximation
+harper lee;go set a watchman
+zen;chinese buddhism
+dna;genetics;homework
+poker strategy
+tournament;clubs
+fiction;technique;style;fantasy;science fiction
+tree removal;ficus
+online
+nomenclature
+file types
+laser
+neural networks;sampling;references
+callerid
+transactions;client;confirmations
+hydrology;soil;water
+stresses;biomechanics;elastic modulus
+wild camping;europe;legality;germany
+texas hold em
+budget;air travel;shanghai;hong kong
+tennis;terminology;history
+piano;digital piano
+macos;software recommendation;display
+earthquakes;plate tectonics
+website;payment
+entropy;kinematics
+launch;rockets;fuel
+sugar;food science;caramelization
+safety;commercial aviation;commercial operations;crew resource management
+starcraft DIGIT;terminology
+lighting;artifacts;spherical harmonics
+political philosophy;philosophy of economics;state;marx
+communication
+money
+cats;training;safety
+conversations
+meditation posture
+planning
+brain
+meteorology
+operating systems;unix;openbsd
+fiction;organization;collaboration
+exercise;travel
+harry potter;magic;spells
+creative writing
+sequences and series;algorithms;computer science
+motor;mechanism
+opengl;gpu;driver
+professionalism
+complex analysis;complex numbers
+homework and exercises;kinematics
+learning algorithms
+solubility
+existence;concept
+human biology;cancer
+shooting
+distributions;uniform;normal distribution
+r;distributions;normality assumption
+mathematics;combinatorics
+collaboration
+rules;football
+climate change;paleoclimatology;ice age;younger dryas
+rules;table tennis
+statistics;modern portfolio theory;correlation matrix
+listen;skill
+animals;alternatives
+security;attack;confirmations;doublespend;fraud
+sd card;settings;file management
+ai basics
+algorithms;computational geometry
+cricket;statistics
+personal practice;meditation mindfulness
+mechanical engineering
+gear;search and rescue;flashlight;lumen
+rockets;history;cost
+composition;sound design;old;music;roles
+quantum mechanics;quantum electrodynamics;virtual photons
+fourier analysis
+united states;rules of court
+imac;daw;workstation
+software
+motor;pid
+logical deduction;calculation puzzle
+riddle;difficulty rating
+estimation
+united states;internet;canada;liability;ownership
+opengl;opengl es;vulkan;multithreading
+zoology;reproduction
+career development;new job;salary;negotiation;job offer
+abstract algebra;polynomials
+nutrition;cancer
+style;description
+cyanogenmod;files;remote access
+infant;newborn;travel
+recruitment;job listing
+cats;behavior
+aircraft design;jet engine
+network;dhcp
+roman empire;ancient rome;roman republic
+epic;sound design
+historical linguistics;evolution;written language;evolutionary linguistics
+recurrent neural networks
+waste;storage;food storage
+pivoting
+sound libraries;library sound effects;sound effects;wiki
+flight simulator
+angel investors
+cheese making
+united states;termination
+sleep
+back pain
+substitutions;milk
+orbital mechanics;asteroid;impact
+side effects;eye;surgery;ophthalmology;lasik
+essay;mla
+personal practice;meditation effects
+linear algebra;notation
+communication;nautical
+benefits
+nutrition;muscle recovery;martial arts
+rebirth;the buddha
+guitar;practice
+planning;sightseeing;switzerland;weather and climate;jungfrau region
+software
+colleagues
+portal
+genetic algorithms
+sony;sony pcm d50;field recording;sound design
+morphology;theoretical linguistics
+browser
+weather;symbology
+terminology;iso;shutter speed;wildlife
+machine learning;random forest
+metering;sunrise;sunset
+incident response
+medical;vacuum
+meditation hindrances
+material science;solid state physics;chemical compounds
+penetration test;tools
+guitar;learning;acoustic guitar
+common law;bankruptcy
+food
+game theory;behavioral economics
+composting;waste
+exercise;chafing;treatment
+mechanical engineering;electrical engineering
+microeconomics
+treatment options;spine;pain management;scoliosis;vcm vertebral curve angle
+book length
+recycling;composting;food waste
+investment
+trading;programming;quantitative
+microeconomics;taxation;pareto efficiency
+united states;war;us congress
+france;18th century;french revolution;diplomatic history
+kinematics;python
+history
+creature vocalizations
+complexity theory;quantum computing;history
+government;central banking
+quadcopter;kalman filter;imu;gps;sensor fusion
+trading;backtesting;slippage;friction
+ardupilot
+19th century;sources
+software
+samsung galaxy s;speakerphone;volume control
+hiring process;applications
+fruit trees;sunlight
+computability;proof techniques;undecidability
+bioinformatics;genomics;human genome
+history of philosophy
+solid state physics;chemical compounds;nanoscience
+security;namecoin;majority attack
+education
+equipment;skeleton
+learning
+syntax;discourse
+bayesian;particle filter;kalman filter
+history;turing test;chat bots
+algorithm;models;research;storage;lexical recognition
+control;pid
+animals
+formal languages;regular languages;pumping lemma
+gpu;optimisation
+listening;block
+algorithms
+mechanical engineering;bearings
+education
+suggested order;vlad taltos;steven brust
+airport;runways
+neural networks;deep learning;natural language processing;voice recognition;text summarization
+opengl;shader;fragment shader
+macos;terminal;script;zip
+civilization DIGIT
+lambda calculus;functional programming
+mechanism;kit
+human biology;genetics;virology;hiv
+gtd;tasks;projects;task dependencies
+tents
+petrology;open data;database
+habits;tools
+singstar
+modeling;aic;cross validation;bic;model selection
+podcasts;appletv
+united states;florida;sentencing
+basketball;coaching
+far DIGIT;far DIGIT
+meteorology;atmosphere;thermodynamics;radiosounding
+lightroom;metadata;storage;lightroom catalog
+modeling;spatial
+consciousness;learning
+r;distributions;maximum
+george r r martin;a song of ice and fire
+fiction;technique;tools;organization
+research;signal processing
+safety;commercial aviation
+character;terminator series;the terminator
+taxonomy
+cats;toys
+marvel;comics;x men;suggested order
+camping;cold weather;sleeping bags
+squats
+drafting
+risk;var;stress
+pre flop;all in
+camping;backpacking;bears;bear bags
+guitar;guitar effects
+gdc
+social network;social;community
+watering;containers;drainage
+madden DIGIT
+terminology;sortition;demarchy
+electricity
+middle east
+copyright;intellectual property;software
+air travel;luggage;hand luggage
+resume;job search;employment gaps
+display;presentation
+meteorology;clouds;radiative transfer
+ipod touch;ipod
+rebus
+stochastic calculus;stochastic processes
+faa regulations;flight school;unmanned aerial vehicle
+standard deviation;sample size;binomial;standard error
+visas;air travel;usa;transit visas
+pest management;insects
+legal;finance;s corporation
+vegetables;harvesting;brassicas;broccoli
+middle east;jews;immigration
+natural language processing;sentience
+quantum mechanics;quantum interpretations;heisenberg uncertainty principle;determinism
+decarbonisation;industrial production
+optimization;portfolio selection
+geophysics;seismology;earthquakes
+philosophy;agi;social
+sheet music
+ancient history;religion
+checkerboard
+pasta;slow cooking
+identification;trees;fruit trees;peaches;nectarines
+economic terms;terminology
+logic;ontology;proof
+air travel;airport security
+united states;19th century;president;battle
+history;olympics;international sports
+personal training
+ethics;kant;free will;determinism;nihilism
+texas hold em
+pitot static
+neurology;tumors;nerves;age
+cosmology;spacetime;space expansion;galaxies;string
+selling
+resources
+linux;file system;steganography
+guitar;learning;practice
+dogs;herding
+navigation;inertial nav system
+network;attacks;icmp
+electricity;history;si units;metrology
+catch DIGIT;joseph heller;word coinage
+stock photography;selling
+machine learning;reinforcement learning;markov chain;q learning
+guitar;acoustic guitar;fingerstyle guitar
+technique;white balance;histogram;tonal distribution
+nlhe;hand history;online;nl200
+applications;employer relations
+sociolinguistics;italian
+copyright;licensing;indonesia;translation
+rules;football;transfer
+resume
+practice
+shopping;pineapple
+infinity
+inorganic chemistry
+economic growth
+political philosophy
+aircraft design;wing
+criminal law;colorado
+exercises;ear training;absolute pitch
+software industry;job change
+trees;tree care
+artificial satellite;reentry;construction;goce
+copyright;internet
+theory
+jurisdiction;international
+food safety;temperature
+microgravity
+biochemistry;enzymes
+planning;food and drink;thailand;study
+machine learning
+work environment;software industry
+sleep transition
+plot explanation;tron legacy
+enlightenment;stream entry;five skandas
+geophysics;measurements
+politeness
+career development;new job;job change
+mathematical economics
+achievements;left DIGIT dead DIGIT
+sms
+motorola droid x
+equipment;wok
+rules
+currencies;physical coins
+resources;style
+wi fi;battery
+united states;supreme court
+terminology;computational linguistics;cognitive linguistics
+law;independence
+syntax
+shooting mode
+epistemology
+mining profitability;mining hardware
+infinity;axioms
+reference request;utility;data request;preferences;micro data
+soundtrack;directors;credits
+probability;self study;binomial
+morphology;phonemes;orthography
+appletv
+dna;rna
+data visualization
+japan;china;social class;korea;samurai
+geophysics;geology;wave modeling;paleogeography
+laity;suffering
+iss;security
+meat
+name significance;bill watterson;calvin and hobbes
+elementary number theory;proof writing;radicals;rationality testing
+thermodynamics
+opening;statistics
+bulbs;planting
+patrick rothfuss;the kingkiller chronicle
+sutras
+social network;social;websites;contact
+side effects;blood pressure;steroids
+neuroscience;dendrites
+equipment
+multitasking
+exercise;muscle
+waves
+cats;behavior
+citations;essay;mla
+etiquette
+security;wallet;theft;virus
+office layout
+performance;computer hardware
+marvel cinematic universe;the avengers
+first aid;burns;home remedies
+digestion
+vegetables;seeds;seed saving
+linux;operating systems;hardware;hardening
+rules;officiating;icc;cricket
+american football;rules;officiating;nfl;formations
+poker history
+aerodynamics;emergency;helicopter
+risk
+authentication;encryption
+aircraft design;glide ratio
+theravada;doctrine
+sync;bookmarks
+algorithms;computability;graph theory;undecidability
+the social network
+algorithm;shading
+metaphysics;ontology
+ps3;keyboard
+professionalism;management;communication
+biochemistry;metabolism;digestive system;food
+composting;externalities;plastic
+electrical engineering;pumps;thrust
+quantum mechanics;classical mechanics;statistical mechanics;scaling;scale invariance
+essay;tenses
+options;monte carlo;simulations
+online
+united states;election
+robotic arm;design;quadcopter;dynamic programming
+intellectual property;incubators
+common cold;cough
+visas;europe;france;ofii;long stay visas
+weightlifting;deadlifts;olympic;snatch
+the moon;telescope;orbit;deep space
+ros;simulator
+united kingdom;traffic
+food safety;storage lifetime;milk;buttermilk
+camping;national park;canada
+automator;folders;folder action
+slam;navigation;lidar
+evil genius
+big list;terminology;mathematicians
+public transport;london;airport transfer;lhr
+computability;automata;reference request;computation models
+copyright;commerce
+long duration;gravity
+phonology;phonetics;ipa;transcription
+pdf
+pie;ice cream;pudding
+story identification;magic;cartoon
+age appropriate
+job change;internship
+algorithms;proof techniques;approximation
+baldurs gate DIGIT
+valuation;ois discounting;collateral
+pomodoro technique
+polymers
+volatility;lognormal
+epistemology;computation;induction;complexity;occams razor
+localization;slam;particle filter
+crimea;nationalism;russian federation
+usa;florida;orlando
+iphone;compass
+reference request;federal reserve
+acid base;home experiment;analytical chemistry
+facebook;frontierville
+bread;sourdough;starter
+sightseeing;india
+electrochemistry;biochemistry
+time management;software;tools;professional life
+steel;materials
+firefly;joss whedon
+united states;parties
+geophysics;geodynamics;core;geothermal heat;human influence
+xbox DIGIT
+copyright;internet;fair use
+early modern;racism
+career development;careers
+pc;left DIGIT dead
+knives
+authentication;passwords
+material science;fermions;bose einstein condensate;superconductivity
+flowering;english ivy
+theravada;meditation insight;comparative religion;meditation concentration;samadhi
+riddle
+career choices
+united states;politeness;meetings
+buttons
+mathematical physics;string theory;geometry
+zombie;vampire;powers;werewolf;magical creatures
+cake;sprinkles;decorating
+jhana
+georgia country;buses;turkey;tbilisi;istanbul
+history of literature
+color;gamma;brightness;image comparison
+string theory;branes
+video;compression;technical
+mario kart ds
+nuts;chestnuts;puree
+strategy;game;letters
+orbital mechanics
+computational statistics
+modern world;zen;traditions
+time series;correlation;numerical methods
+typing
+monte carlo;calibration;heston
+keyboard
+theory;chords;harmony;chord progressions;blues
+toddler;behavior;development;discipline;separation
+optics;electromagnetic radiation;polarization;interference
+canada;jury
+toys
+game theory
+psychology;gaming theory
+international
+hiking;safety;elk
+management;human resources;offices;terminology;position
+metaphysics;quantum physics;ancient philosophy
+algorithms;time complexity;algorithm analysis
+ergonomics;workspace
+philosophy of religion;pain and pleasure;epicurus
+halting problem
+cryptography;encryption;.net;random
+DIGIT eclair;samsung galaxy s;rooting
+recycling
+phonetics;production;articulation
+star trek;star trek tng;star trek voyager;star trek ds9
+rules;reading hands
+plot explanation;analysis;the perks of being a wallflower
+wire transfers;hawala
+dialer;htc desire z
+food;teen;nutrition;hair
+quantum field theory
+complexity theory;np complete;reductions;satisfiability;polynomial time
+dna;bioinformatics;molecular genetics
+machine learning;deep learning;computer vision
+phonetics;voicing
+memento;christopher nolan
+science;meditation breath;meditation body
+hypothesis testing;distributions;bootstrap;moments;l moments
+plot explanation;analysis;mr brooks
+lens;dslr;cleaning
+film;scanner;negative scanner
+marvel cinematic universe;title;the avengers
+starcraft DIGIT
+mars;colonization;plants
+game of thrones;a song of ice and fire
+rules;cycling
+electrochemistry
+star trek;borg
+united states;russian federation;europe
+bitcoind;namecoin;json rpc;merged mining;getmemorypool
+behavior;cats;health;safety
+health
+diet;fish;aquarium
+customs and immigration;luggage;airports
+propulsion;engines
+anarchism;infrastructure;anarcho capitalism
+privacy;terms of service
+vipassana;pali canon;reference request;meditation recommendation
+france;car rentals;spain;pyrenees
+solid state chemistry;ionic compounds
+group theory;simple groups;exceptional isomorphisms
+algorithms;graph theory;sorting
+quality engineering;computer engineering
+ps3
+temples;secular buddhism
+r;mathematical statistics;computing;parallel computing
+everyday chemistry;metal
+transactions;client;mobile;android;ios
+piano;practice;metronomes
+mindfulness;right livelihood;integration;right mindfulness
+weightlifting;deadlifts;flexibility
+formal languages;automata;buchi automata
+food;paper;alternatives
+democracy;israel;palestine
+20th century;cold war;indonesia
+formal grammars
+quantum mechanics;schroedinger equation
+united states;19th century;native americans;old west;railroads
+starcraft DIGIT
+marketing;market research
+string theory;quantum gravity;anthropic principle
+pasta;potatoes;italian cuisine;gnocchi
+email
+lightroom;jpeg;facebook
+terminology;morphology;cross linguistic;semantics
+ocean
+proteins;structural biology;protein binding
+history of philosophy;political philosophy
+memory;communication
+stereochemistry;spectroscopy;chirality;spectrophotometry
+resume;management;career development;contracts;freelancing
+graph theory;probability theory
+dwarf fortress
+statistical mechanics;ising model
+queries
+algorithm;vector graphics
+optics;applied physics
+tech company;business model;strategy
+photons;laser
+autopilot;avionics
+karma;relationship;parents
+iss;thermal;temperature;climate
+mahayana;philosophy;history;nagarjuna
+spotlight
+pest control;perennials
+lateral thinking;strategy
+analysis;puzzles
+autopilot;flight instruments
+strategy
+time
+game theory;empirical evidence;social choice
+discipline;personality
+work environment;contracts;contractors
+neural networks;unassisted learning
+group theory;simple groups
+immune system;infection;common cold
+network;virtualization
+organization;work;projects
+stretching;muscle mass
+unrooting
+online resources;ferries;greece;athens
+friends
+sensors;quadcopter;electronics;esc;multi rotor
+bluetooth;audio;calls;car dock;hands free
+government;united kingdom
+time management;study
+voice;breathing;technique;exercises
+mars;history;planetary science;myth busting;moons
+diet;thigh
+iphone;cell phone carriers
+taxes;united kingdom
+stock options;vesting
+texas hold em;betting strategy;cash game
+neural networks;models
+opengl;opengl es
+options;implied volatility
+mycology
+health;tips and tricks
+dslr;zoom;focal length;point and shoot;sensor size
+aircraft design;landing;takeoff;c DIGIT
+video games;social network;wiki
+blood
+fiction;publishing
+opening;queens gambit;queens gambit accepted
+operating systems;windows;access control;file system;uac
+genetic algorithms;markov chain;probabilistic
+dogs;treats;mental stimulation
+texas hold em
+htc sense
+the dark knight rises;film location
+cell biology;cancer;stem cells
+equipment;wok
+united states;rules of court;process;religion
+microphone;sanken
+hiring process;resume;linkedin
+opening;gambits
+correlation;effect size
+safety;fire;shelter
+short stories;isaac asimov;theme;i robot
+category theory;intuition;universal algebra;monads
+arduino;electronics;wifi
+licensing;patents
+ethics;free will;psychology
+neural networks;datasets
+homework;cranial nerves
+point and shoot;cheap
+cryptic crosswords;crossword clues
+resume
+statistics;probability
+reference request
+combinatorics;checkerboard
+pie;vegetarian;puff pastry;pot pie
+european union;jurisdiction;competition
+history
+interest rates
+opening
+mechanical engineering;project management;research
+screenwriting;playwriting
+europe;hiking;mountain climbing
+field recording;sound effects recording;gear;mistakes blunders mishaps
+software;arduino;programming languages
+geophysics;glaciology;antarctic;ice sheets
+algorithms;reference request;graphs;search algorithms
+time series
+macroeconomics
+world war two;british empire;naval
+fluid mechanics;flow control
+piston engine;aircraft performance;aircraft maintenance
+budget;new zealand;mail;shipping
+epistemology;reference request
+international trade;comparative advantage
+energy;energy efficiency;energy management
+bolting;structural engineering
+style;business writing;time depiction;cover letter;numerals
+unrooting;unrevoked
+untagged
+neural networks;machine learning;deep learning;recurrent neural networks;lstm
+languages
+miner configuration;gpu mining
+dictionary;verse;resources
+rock climbing;rope;multi pitch;rope management
+lens;sigma
+aircraft certification;pilot technique;type ratings
+newtonian mechanics;forces;newtonian gravity;centripetal force;free body diagram
+iss;pirs;airlock;quest joint airlock;poisk
+ripe;fruit;watermelon
+france;revolution;french empire
+united states;constitution
+piston engine
+phonetics;english;language change;tone;interrogatives
+analysis;functional analysis;fourier analysis
+peppers;sunlight
+human biology;microbiology
+water;plastic;reuse
+soft question;big list;applications;hyperbolic functions
+logical deduction
+mushrooms
+ecological footprint;economy;csr;cs
+behavior;pre schooler;discipline
+api
+luggage;security;insurance
+noise;reduction;hum
+sound effects
+terrariums;lighting;frogs;amphibians
+reentry;parachute
+analysis
+algorithm;interpolation
+itunes
+neurology;brain;senses
+bread
+atmosphere;clouds
+running;recovery;injury;fractures
+medication
+locate this;chile;landmarks;deserts
+calculation puzzle;puzzle identification
+united states;tax law
+interviewing;negotiation;expenses
+criminal law;international;terminology;customs law
+equities;statistics;modeling;regression
+nutrition;weight;milk;weight loss
+appsec;code review;manual review
+webserver;malware
+drawing;unity
+ethics
+running;diet;bicycling;electrolytes
+spacecraft development;software
+local
+multitasking;commute
+walking;feet
+exchange rates
+substitutions;dairy;buttermilk
+macroeconomics;econometrics;reference request;open economy macro
+soil;soil amendment;clay
+dogs;behavior;training
+german literature;timur vermes;look whos back
+algorithms;graph theory;shortest path
+time capsule
+climate;planetary science;ice age;mars
+evolution
+air travel;tips and tricks;sleeping
+modulation;speech;sound design
+pc;backwards compatibility
+riddle
+france;diplomacy;american revolution;north america
+gender;names
+health;development
+renewables;computing;education;academia
+tech company;software;funding;startup costs;hardware
+equipment;blender
+iphone
+english;varieties
+electromagnetism;perpetual motion
+design;ideas;games
+rules;omaha hi lo
+workout routines;bodyweight exercises;neck;trapezius
+logical deduction;weighing
+untagged
+recycling;plastic;bags
+united states;search and seizure
+history;terminology;zugzwang;zwischenzug
+risk management;asset allocation
+nlp;corpora;resource request;japanese
+nlhe;cash game;casino
+currencies
+betting strategy
+dogs;health;senior pet
+electricity;renewables
+united states;same sex marriage
+corn
+inorganic chemistry;transition metals;symmetry;group theory
+props;production
+software
+water
+sleep
+cold comfort farm;stella gibbons
+product photography;background
+oxidation state
+dogs;behavior
+personal practice;vipassana;pali canon;meditation breath
+inorganic chemistry;metal
+iphone;backup;contacts
+formal languages;regular languages;pumping lemma;intuition
+marriage;sex
+headphones;wireless;setup
+united states;personal locator beacons;satellite phones
+planetary science;jupiter;gas giant;hydrogen
+mathematics
+mechanical engineering;fluid mechanics;airflow
+salary;resignation
+online;poker tools
+cats;behavior
+risk neutral measure
+career
+opengl;shader;texture;glsl
+renewables;air conditioning;geothermal
+design
+terminology
+algebraic geometry
+capsule;reentry;mission control
+education;independence
+encryption;cryptography;des
+acceptable behavior;students
+evolution;genetics;zoology;ethology;sex
+genetics;microbiology;bacteriology;molecular genetics
+faa regulations;air traffic control;airspace;instrument flight rules
+homework;equilibrium
+toddler;food;baby led weaning
+web application;web browser;html DIGIT
+rules;reading hands
+united states;search and seizure;religion
+texas hold em;rules
+quantum mechanics;black holes;double slit experiment;interference
+founding fathers
+brain;neurology;csf cerebrospinal fluid
+arduino;serial
+baking;fish;salmon
+the moon;nasa;crewed spaceflight;apollo program;rovers
+penetration test;appsec;automated testing;code review;manual review
+star wars
+online
+odds
+syntax;linguistic typology;phrase structure;possession
+poetry;french literature;charles baudelaire
+rules;cricket;wicket
+star trek;star trek tng;star trek voyager;borg
+geophysics
+hiking;hygiene
+voyager;deep space;delta v;pioneer
+mobile robot;mapping
+finance;education;career
+neural networks;deep learning;algorithm;genetic algorithms;learning algorithms
+resume
+multiple comparisons;power
+todo
+flight data recorder;cockpit voice recorder
+computability;turing machines;halting problem
+sleep transition;sleep
+tasks;tools
+navigation;altitude;gps;gnss
+history
+behavior;tantrums
+running;training;5k
+energy efficiency;home
+novel;fantasy
+directx12
+cheats;madden DIGIT
+soft question
+syndicate wars
+style;language
+evolution;physiology;mutations;ichthyology
+opening;sicilian defense
+commodities
+economics;mining profitability;weaknesses;energy consumption
+tibetan buddhism;traditions
+management;performance reviews
+market size
+visas;usa;israel;us citizens
+network
+fiction;wordcount;short story;publication
+expected utility
+beans;mexican cuisine
+environmental impact;packaging
+calculus
+thermodynamics;statistical mechanics
+solvents;solubility;melting point;phase
+aquarium;reptiles;turtles;substrate;decorations
+movie;communication;story identification
+jogging
+malazan;steven erikson
+crewed spaceflight;robotic missions
+water;atmosphere
+reading;information overload;decisionmaking
+watson
+electrical engineering
+tech company;founder;co founder;non disclosure agreement
+terminology
+mathematics;probability;combinatorics
+earbuds
+human biology;sleep
+psychology;philosophy of economics;rationality;cognitive sciences
+field recording
+sleep transition;distraction
+macos;macbook
+lateral thinking
+computational chemistry
+fuel
+index;trends
+interviewing
+easa regulations
+cats;dogs;diet;fleas
+fruit;juice;pomegranate
+machine learning;prediction;optimization
+currency
+records
+watering
+network;ipsec;vpn
+evolution;abiogenesis
+jazz;tone;bass trombone
+sensors;wireless;communication
+symbolism;anna karenina;leo tolstoy
+computational linguistics;software;chomsky hierarchy
+botany;plant anatomy
+sound effects
+warfare;military
+cricket;trivia
+logical deduction;open ended
+macos;software recommendation;text editor
+mechanical engineering;materials;bicycles
+terminology;semantics
+iphone;jailbreak;podcasts
+music;clearance
+ideology;gender;political spectrum
+herbs;plant recommendations;perennials
+technology;spacesuits;robotic missions
+windows;mobile;incident response;hardware
+gear;climbing;rock climbing
+gtd;tasks
+theory;composition
+meteorology;atmosphere;weather;tropical cyclone;wind
+history;books
+resume;interviewing;employer relations
+motorola droid;overclocking
+genetic programming
+philosophy;nirvana;zen
+storage method;vegetables;freezing
+reference request;plato;socrates;psychoanalysis
+united states;copyright;software;fair use;open source software
+emergency;airline operations
+etymology;greek
+motivation
+conflict of laws
+canada;corporate law
+raytracing;pixels
+probability
+fractals;dynamical systems
+terminology;probability
+cryptography;hash;cryptanalysis
+knots
+regression;econometrics;difference in difference
+plot explanation;oceans eleven
+google play store
+opening;four knights
+mechanical engineering;machining;aluminum;quality engineering
+chicken;frying;chicken breast;french cuisine
+macroeconomics
+mineralogy;petrology
+texas hold em;poker history
+equipment;knives
+snow leopard;mac;folders
+logic;theology;philosophy of religion;free will
+visas;air travel;usa;uk;canada
+plug ins;vocoder;virtual instruments
+rockets;propulsion
+hiking;boots
+radar;birds
+mechanical engineering;dynamics;transfer function
+musicology;history
+animals;vegetarianism;farming
+theology;sartre;pascal
+newtonian mechanics;forces;rotational dynamics;friction;free body diagram
+sicilian defense
+texas hold em;blinds
+zoology;teeth
+faa regulations;flight planning;weather;efb
+blockchain;security;attack;json rpc;blockchain fork
+everyday chemistry;acid base;food chemistry
+fruit trees;indoors;containers
+data visualization
+dslr;crop factor
+technique;archery
+raytracing;lighting;radiosity
+fruit trees;tree care;figs;cuttings
+texas hold em;probability
+medications;side effects;mental health;renal;lithium
+bible
+neural networks
+rules;baseball;mlb;fans
+cryptography;encryption;tls;vpn
+props;stunts
+story identification;books;magic
+diet
+identification;houseplants
+star trek;star trek tng;aliens;races
+compasses
+data structures;time complexity;priority queues
+random variable;normal distribution;expected value
+alien franchise;alien DIGIT
+character analysis;ken follett;the pillars of the earth
+guitar;technique;picking
+united states;russian federation;nuclear weapons;weapons;cold war
+oceanography;geography
+volatility;risk;high frequency estimators
+guitar;theory;tuning
+cell biology;gene expression
+european union;taxes;belgium
+atmosphere;planetology
+puzzles;checkmate
+kinect
+oil;tasting
+guitar;maintenance
+boeing;supersonic
+development;characters;resources
+protocol
+snow leopard;dock;expose
+paleogeography;sea level
+learning;guitar;software
+censorship;my uncle napoleon;iraj pezeshkzad;persian literature
+laser
+rebirth;meditation insight
+style;structure;storyline
+military;political history;police
+hiring process;online presence
+voxelization
+seismology;earthquakes;open data;data formats
+nineteen eighty four
+socialism;venezuela
+vaccination;resistance
+health;fish;pond;filters
+football;trivia
+historical linguistics;cross linguistic;origin of language
+inflation
+effects;cinematography
+pot odds
+gear;gear care;sleeping bags
+china;landmarks;architecture;beijing;great wall of china
+mobile robot;line following
+history
+dc;green lantern;green lantern DIGIT
+nlp;theoretical linguistics;computational linguistics
+references;referee
+macroeconomics;public economics;labor economics
+battery;battery life
+learning
+quantum computing;halting problem;strong ai
+mobile robot;robotic arm;actuator
+nutrition;hunger
+eggs
+lightroom;photo editing;cropping
+cats;fear
+evolution
+shyness;india
+mining pools;block header;latency;block propagation time
+parties
+reference request;algebraic geometry;algebraic groups
+primary schooler;pets
+raytracing;pathtracing;material
+quant trading strategies;high frequency;modeling;position sizing
+relationships
+modern world;demographics
+europe;germany;poland;architecture;castles
+faa regulations;software
+tech company;website;value;saas;business capital
+facebook;restaurant city
+launch;nasa
+currencies;economy;money
+air travel;international travel;airlines;africa;south america
+macroeconomics;exchange rates;currency peg
+textmate;emacs
+mathematics;open ended;reachability
+software
+formalisation
+cats;behavior;socializing
+network;firewalls;cisco
+real analysis;analysis
+energy;electricity;energy management
+bedtime;reading
+battlefield bad company DIGIT
+ocean;plate tectonics;earth history;paleogeography
+htc desire
+general topology;algebraic geometry;intuition
+cricket
+benefits;brushing teeth;toothbrush;gingivitis;brands
+ocean;waves;wave modeling
+neural networks;ocr
+probability
+professionalism;time off
+philosophy of economics
+economy
+bitcoind;json rpc;green address
+geometry;reference request;euclidean geometry;graph theory;discrete geometry
+calculus;limits
+marvel cinematic universe;comic adaptation;thor
+pali canon;teaching
+school
+geophysics;geomagnetism;convection;laboratory;magnetosphere
+recurrence relation;dynamic programming
+english;discourse analysis
+dogs;health;toilet training
+electromagnetism
+safety;bears;night;arctic
+professionalism
+warranty
+computing
+trains;south africa
+value;labor cost
+energy efficiency;cars;batteries
+endgame;pawns;draw;knights;checkmate
+categorical data;continuous data
+juice
+toddler;discipline;tantrums;spanking
+pest control;pests;raccoons
+string instruments
+flight controls;flight data recorder
+steam
+equity;funding
+geology;mineralogy;petrology;petrography
+blockchain;synchronization
+samsung galaxy s;sync;DIGIT eclair
+sound effects;sound effects recording;microphone technique;urban
+management;communication;work life balance;overtime;work time
+star wars;technology;revenge of the sith
+wallet;transaction fees
+geomorphology
+hypothetical;earth rotation
+asian cuisine;flatbread
+texas hold em;betting strategy;no limit
+google play store;sync;accounts;google talk
+earth history;mountains;geography;paleogeography;topography
+film;developing;black and white
+sleep;behavior;pacifier;thumb sucking
+algorithms;information theory;data compression
+baking;bread;dough;pita
+filters;polarizer
+arrowverse;arrow;comic adaptation
+poetry;short stories;terminology
+formal languages;formal grammars;context free;parsing
+linguistic universals
+reference request
+software;tools;non fiction
+historical accuracy;DIGIT bc
+job change;job search;resignation
+alcohol;blood;donor;smoking
+hard sci fi
+diaper;cloth diaper
+aircraft design;jet engine;aircraft performance;engine placement
+aircraft design
+analysis;starship troopers
+space industry;isro
+windows;ssh
+renewable energy
+machine learning;maximum likelihood;loss functions;pac learning
+larry niven;ringworld
+flight training;air race
+languages;story identification
+cryptography;encryption;hardware;memory
+iphone;gps
+consumer theory
+contract law;contract;employment
+plastic
+propulsion;advanced propulsion
+tennis;history;terminology
+zen;books
+skiing;ski repair
+symbolism;poetry;dylan thomas
+technique;lighting;landscape;sunlight;golden hour
+texas hold em;online;cash game;poker strategy
+equity;united kingdom;cto
+english;rebus
+number theory;abstract algebra;algebraic number theory
+poker strategy
+kinect;openni
+algebraic geometry
+chestnuts
+pattern;visual
+cosmology;quantum information;information
+tensorflow
+computability;computation models;turing completeness
+trading;futures;forecasting
+weapons;american civil war
+stargate;stargate universe
+learning;self learning
+mathematics
+budget;airlines;children;fares
+meteorology;models;nwp;validation
+mathematics;number theory;reachability
+volatility;black scholes;implied volatility;fx
+weed control
+software
+options;greeks;portfolio
+algorithm
+fixed income;interest rates;derivatives;pricing;swaps
+comics;neil gaiman;the sandman
+dogs;cats;introducing pets
+the lord of the rings;tolkiens legendarium;magical items;saruman
+english;phrasal verbs
+telecommunication;wireless communication
+diet;protein
+middlegame;evaluation;beginner
+cross linguistic;prosody;perception;production;speed
+cryptography
+word
+physical chemistry;solubility
+super mario galaxy DIGIT
+rendering
+cleaning;printing
+acid base;ph
+story identification;dystopia
+mail.app;email
+core;mantle;drilling
+roman republic;jews;carthage;punic wars
+quadcopter
+thermodynamics
+work;coffee
+diabetes;natural remedy;type DIGIT diabetes;blood sugar;glycated hemoglobin hba1c
+network;attack prevention;privacy
+statistics;data
+launch;rockets;atmospheric drag;atmosphere;high altitude launch
+degrowth
+government;canada
+ipad;video
+landing;visual approaches
+fruit trees;transplanting;peaches
+effects;heroes
+opening;history;kings gambit;spassky
+dogs;infections
+macos;software recommendation;desktop;customization
+publishing;short story;titles
+ethics
+texas hold em;betting strategy
+wi fi;networking
+measure theory
+passenger;takeoff
+physical books
+storage method;coffee
+algorithm;geometry
+algorithm;machine learning;legged
+endgame;bishops;rooks
+gear;kayaks;plastic kayaks;fiberglass kayak
+design;joint;identification
+visual;rebus
+opening;strategy;theory;endgame
+mechanical engineering;threads
+plugin;review;design;post production
+cryptography;encryption
+nutrition;diet;workout;food;breakfast
+epistemology;kant;idealism;critique of pure reason
+time travel;alternate history
+machine learning;ocr
+middle ages;philosophy;republic
+genetics
+brdf;diffuse
+mobile robot;design;kinematics;theory
+neuroscience;synapses;dendritic spines
+data mining;sas
+mahayana;iconography;kwan yin
+texas hold em;poker strategy;strategy
+ethics;good and evil
+gardening
+earthquakes;fracking
+inorganic chemistry;everyday chemistry;electrochemistry
+professionalism;email
+iphone;ios
+j k rowling;harry potter
+plot;scene
+lateral thinking
+syntax;universal grammar;recursion
+electromagnetism;space;visualization
+learning;rules
+tourism
+nutrition;cooking;minerals
+mesh
+nutrition;diet;proteins
+abstract algebra;irrational numbers
+cats;breeding;biology
+category theory
+weightlifting
+company policy;politics;termination
+evolution;abiogenesis
+reference request;lambda calculus;functional programming;books
+rules;dealing;cheating
+cryptography;appsec;encryption;.net
+british empire;india;economy;currency
+books
+structure
+deep network;overfitting;performance
+hiking;trees
+correlation;probability
+philosophy of language;consciousness;wittgenstein;private language
+flight training;usa;military;logging
+health;pig
+dogs;desexing
+saying no;france
+real analysis;convergence;integration
+ambience;recording;field
+poker history
+poisons
+insects;balanced ecosystems;bats
+hiring process;professionalism;ethics
+20th century;soviet union;ukraine
+records;collegiate
+2d
+network;firewalls;ddos;iptables
+personal practice;the buddha
+management
+software industry;salary;job change
+salt
+copyright
+style;structure;conventions
+software
+how i met your mother
+aquaponics;filtration
+united states;economy;debt
+ancient history;democracy;election
+running;exercise equipment;treadmill
+techniques;memory;study;research
+german literature;quote identification;stefan zweig;the world of yesterday
+united states;international relations;cuba
+terminology
+toddler;crying
+client
+budget;tourist traps;philippines
+economy
+cycling
+short stories;inspiration;ray bradbury
+food;farming;vegetarianism
+iss;docking
+the belgariad
+story identification
+screenwriting;comics
+baseball;mlb;trivia
+gpu;hlsl;directx12
+style
+electronic configuration
+mechanical engineering
+materials;friction
+geometry
+mobile robot;ros
+diet;side effects;blood tests
+conversations;conflict aversion;india
+world war two;military;naval;aircraft;dday
+doctor who
+europe;road trips;eastern europe;balkans;southeast europe
+middle ages;byzantine empire;15th century;crusades
+theory;software;chord progressions
+landlord
+mechanical engineering;applied mechanics;springs
+star trek;technology;weapon
+options;forecasting
+biopic
+caribbean;freighter travel;shipping
+latin literature;apuleius
+meteorology;planetary science;atmospheric circulation
+macos;merge;mp4
+food;monasticism
+macbook
+video;game;design;education
+trains;russia;astrakhan;ferries
+mechanical engineering;fluid dynamics;fluid mechanics;pipelines;piping
+translation;mark brandis
+exposure;low light;astrophotography;moon
+feedback;trailer
+transformations
+writing systems
+safety;knots;bowline knots
+iss;robotic missions
+contracts;freelancing
+geophysics;core
+theravada;karma;visuddhimagga
+interviewing
+thermodynamics;food chemistry
+electrical engineering;embedded systems
+machine learning;computer vision;image processing
+geometry
+exercise;exercise technique;lower back;strength training
+control problem;world knowledge
+the dark knight rises;directors;christopher nolan
+independent film;credit;production mixing;post production;roles
+summation;floor function
+futurama;math
+fat loss;gel
+storage method;rice;pie;blind baking
+running;nutrition
+variety selection;peas
+lavalier;production sound;dialog;cloth
+novel;creative writing
+etymology;latin;sanskrit
+basil
+causation
+dogs;medicines;allergies
+terraforming;exoplanet;tides
+wi fi;data plan
+conflicts;negotiation
+corporate law;non profit;georgia
+editing
+publishing;self publishing;agent
+the buddha;history
+c s lewis;the chronicles of narnia
+genre
+logic
+algorithm;transformations;optimisation;blur
+iphone;unlock
+professionalism;work environment
+video games;sound design
+macroeconomics;econometrics;time series
+clouds;atmospheric radiation
+identify this movie;science fiction
+football;terminology
+rules
+mining hardware
+marriage
+epistemology;terminology;knowledge
+electrical engineering;wireless communication
+cats;socializing
+logic;terminology
+communication
+linux;unix
+spices;steak;vegetarian;vegan;tofu
+hypothesis testing;correlation;multiple comparisons;statistical significance;survey
+biopic;production
+skiing;maintenance
+muscle recovery;psoas;back pain
+plant anatomy
+trees;fruit trees;pruning;peaches
+quantum field theory;mathematical physics
+dermatology
+xbox DIGIT
+j r r tolkien;the lord of the rings
+resume;online presence
+containers;raspberries;soft fruit
+mathematics;geometry;three dimensional
+passenger;pilots;cruise
+iphone;wifi
+watering;planting;rain
+ontology;philosophy of mathematics;badiou
+texas hold em;rules;dealing
+spin;hydrogen
+peter pan;j m barrie
+professionalism;colleagues;company culture
+enlightenment;nirvana;visuddhimagga
+legal;founder;exit
+toxicity
+microbiology;epidemiology
+self management;techniques;home;electronic devices;management
+military;soviet union;naval;cold war;submarine
+tasker
+heart disease;cardiology;cardiovascular disease;cholesterol
+strategy;statistics
+software;customer development;idea
+treatment options;gynaecology;menstrual cycle;pain management;dysmenorrhea
+backtesting;automated trading;software;trading systems
+tells;live
+r;estimation;covariance;distribution;joint probability
+metallurgy;aluminum
+snare drum;percussion
+puzzle;contest math
+brdf;importance sampling
+education
+health;rabbits;physiology
+software;writing
+languages;localization;hebrew
+story identification;short stories;technology
+complexity theory;np complete;traveling salesman
+sharing;firewall;network;services
+united states;government shutdown
+machine learning
+novel;formatting;time depiction
+separation
+sd card;linux;file transfer;file management
+pro tools;sound design;beginner
+punctuation;clarity
+organic chemistry;acid base
+rules;basketball
+kernel trick;kernel smoothing
+complexity theory;computability;reductions
+weight loss;workout types
+strong ai
+pricing;product market fit
+backpacking;cleaning
+strength;core;dancing
+programming
+rice
+microgravity;health;food;humans;crewed spaceflight
+macos
+television;age appropriate
+econometrics
+algorithms;complexity theory;terminology;efficiency
+email
+information theory;security;access control
+soymilk
+security;attack;history;linode;theft
+sleep transition
+meteorology;convection;clouds
+style;technical writing;language
+computational geometry
+india;british empire;independence
+logical deduction;mathematics
+nutrition;prevention;treatment options;minerals
+macroeconomics
+algorithms;graph theory
+cats;vision
+career development;professionalism
+neural networks;deep learning;convolutional neural networks
+stomach;oil;digestion
+genetics;human genome
+chessboards
+plate tectonics;earth history;mountain building
+learning
+awards
+econometrics
+exercise;nutrition;workout;recovery;workout routines
+tripod;tripod heads
+fuel efficiency;firewood
+china;qing;mongolia
+rock climbing;shoes;bouldering
+solar power;electricity;photovoltaics;uk
+virus;malware;terminology
+texas hold em;no limit;raise
+electromagnetic radiation;visible light;antennas
+gps;protection;coverage
+computability;semi decidability;enumeration
+microcontroller
+trading systems;friction
+ayn rand;atlas shrugged;the fountainhead
+toddler;potty training
+network;nodes
+texas hold em
+toddler;education;food
+toddler;tantrums;walking
+mining reward;mining setup
+rules;kings;castling;rooks;check
+story identification;movie;aliens
+terminology;medicinal chemistry
+communication;applications;email;cover letter
+cancer;weight
+opening
+aircraft limitations;procedure;taxiing
+reference request;death;pragmatism
+non verbal communication;personal space
+analysis;engines;uci
+cats;health
+granular synthesis
+wheeled robot;kinematics
+boeing;airbus
+trees;harvesting;plant uses
+logic
+rebirth;soul
+voyager;rtg
+data;automated trading;market data
+references;modeling
+untagged
+resume;work experience
+air traffic control;safety;runways
+speed of light;spacetime
+quantum chemistry;orbitals;atoms
+options;futures;hedging;fixed income;duration
+organic chemistry;reaction mechanism;solvents;chirality
+solvents;theoretical chemistry;solubility
+non profit;virginia
+20th century;world war two;dday
+petrology;economic geology
+guitar;tuning;tremolo system
+control;pid
+newbie;pre amp;field recording;portable recorder;recommendations
+geophysics;climate;earthquakes;storms
+metaphysics;ontology
+united kingdom;india
+formula DIGIT
+encoded message
+stock
+hermit crabs;molting
+philosophy;emotional intelligence
+rebirth
+cats;anatomy
+life cycle analysis;embodied energy
+civil engineering;beam
+cricket;equipment
+gofai;symbolic computing
+options;greeks
+neural networks;machine learning;deep learning;learning algorithms
+software;training
+limit order book
+united states;inequality
+united states;taxes;llc
+freezing
+probability
+world war two;japan;warfare;nuclear
+fish;aquarium
+conversations;argument
+history;empire
+toddler;safety
+fiction;dialogue
+book collecting;physical books;publishing
+meaning;elizabeth gaskell;cranford
+macroeconomics;monetary policy;keynesian economics
+creative writing;email;getting started
+star trek
+standardization
+united states;rent;massachusetts
+theory
+vipassana;reference request;history;satipatthana
+macroeconomics;finance;interest rate
+uk;london
+voice;exercises
+book;titles
+virtual reality;conversion;video
+equipment;ice hockey
+electric guitar;lutherie
+sleep transition
+biochemistry;bioinformatics;proteins
+acoustic guitar;strings;fingerstyle guitar
+software;hardware;nuendo4;omf
+trading;trading systems
+boeing;boeing DIGIT
+sea level
+neural networks;hidden layers
+probability
+reference request;society;sociology
+survival;weather
+rules;cricket;terminology;strategy;formations
+passwords;attacks;key management
+commercial aviation;measurement
+united states;debt
+fluid mechanics
+references
+aperture;extension tubes
+incident response
+chess
+practice;technique
+ocean;temperature
+equipment recommendation;sensor size;full frame;cropped sensor;aps c
+american football;history;terminology;rugby
+the wire
+hardware;mac pro;motherboard
+landing;aircraft carrier
+quant trading strategies;automated trading
+starcraft DIGIT
+verbs;albanian;participles
+united states;president;police;transparency
+air traffic control;airliner;mh370 incident;qnh
+dogs;grooming
+soup;milk
+meaning;martin luther king
+nature
+radiation;solar system;cosmic radiation;interstellar medium
+health;safety;treats;recall
+character;sherlock holmes DIGIT;sherlock holmes a game of shadows
+syntax;linguistic typology;ergativity;valency
+epistemology;metaphysics;reference request;consciousness;hofstadter
+macos;snow leopard;install
+thomas hardy
+france;american revolution;economics;finance
+dialogue;die hard
+microphone;recording;instruments;stereo
+democracy;capitalism
+macbook;battery
+formal languages;regular languages;regular expressions
+safety;bathing
+road trips;brazil;french guiana
+physical chemistry;computational chemistry;spectroscopy
+weight loss;workout routines;cardio;freeweights
+united states;religion
+professionalism;management;email
+tic tac toe;game
+aircraft design;density altitude;cruise;range
+nfl;transaction;finances
+general relativity;quantum gravity;black holes
+backpacking;tents;backpacks;sleeping bags
+neural networks;training;optimization;keras
+international relations
+DIGIT;mixing;small;studio
+cryptography;web application;tls;http
+phishing
+texas hold em;rules
+iphone;jailbreak;remote desktop
+antivirus;antimalware
+luggage;airport transfer;taxis;sfo;san jose california
+sedimentology;limestone
+computer architecture;reference question
+algorithms;complexity theory;time complexity;intuition
+five precepts
+story identification;short stories;edgar allan poe;german literature
+company policy;expenses
+rules;cricket;duckworth lewis;interruption
+ethics;exploit;disclosure
+security;eu;ffdo
+airline operations;flight training;usa;career
+dwarf fortress
+health;reptiles;safety
+aircraft design;flight instruments;temperature
+football;rugby;officiating
+neuroscience
+risk management;strategy
+opening;old indian
+eating habits
+electricity;batteries;vehicle;battery charging;car
+company policy;united kingdom
+personality;effectiveness
+watering;vegetables;tomatoes;diagnosis;leaves
+fluid dynamics;design
+money
+personal practice;sunyata
+learning;study;break
+funding;fundraising;india;security
+football;olympics;awards
+professionalism;interviewing;feedback
+greek literature;scansion
+microeconomics;decision theory;expected utility;preferences
+religion;mesoamerica;maya
+countries;terminology;disputed territories;factoids
+fire starting
+relationships;lgbt+;gender
+starcraft DIGIT
+oceanography;measurements;waves;open data
+data;time series;moving average
+ph;experimental chemistry
+pivoting
+belief;evil
+characters;pages
+analysis;character;poltergeist
+geology;geothermal heat;economic geology;fracking
+philosophy of language;kripke;rigid designator
+style;formatting
+standard error;measurement
+cryptography;digital signature
+tree removal
+argentina;study;languages;patagonia
+puzzles;retrograde analysis
+morphology
+traffic;new york city
+taxonomy;book recommendation
+survival;safety;emergencies
+plot explanation;alien
+learning;behavior
+prometheus;film industry
+china
+rules
+natural language processing;chat bots
+telescope;astronomy
+soil;soil test;ph
+interviewing
+quadcopter
+r;machine learning;classification;random forest;microarray
+water;purification;green chemistry;water treatment
+school;primary schooler;middle childhood
+geophysics;plate tectonics;tectonics
+r;references
+poker tools
+linguistic typology;mongolian
+terminology;education
+meteorology
+web application;requirements
+itunes;ipod touch;ipod
+dither;video games
+united states;legal concepts
+economic measurement
+condensed matter;quantum spin
+reference request;japanese;particles;discourse analysis
+analysis;engines;tactics
+mineralogy;amber
+riddle
+japanese;determiners
+appsec;php;csrf;ajax
+professionalism;job search
+orbital mechanics;rosetta;comet;philae;hayabusa
+gamma
+food safety;food preservation;chips
+treatment;autism
+fishing
+deep learning;computer vision
+nutrition;protein;training;muscle
+acid base;water;ph
+cointegration;auto correlation
+china;communism
+formal languages;formal grammars
+optimization;reductions;factoring
+john grisham;theodore boone;setting
+macroeconomics;microeconomics
+faa regulations;flight training;usa;liability
+buddhas;pure land;amitabha
+solar power;photovoltaics
+food safety;chicken;grilling
+bitcoind;websites
+diseases;plant health;rhubarb;rust
+appsec;web application;error handling
+diagnosis;identification;insects;flowers;geraniums
+plot explanation;the dark knight rises
+cosmology;cosmological inflation
+powerlifting;olympic
+convolutional neural networks;tensorflow;backpropagation
+star trek;star trek tng;borg
+physical chemistry;electrochemistry
+waste;waste minimisation;woodwork;packaging
+motivation
+analysis;sherlock
+stargate;stargate universe
+ernest hemingway
+transportation;denmark;bicycles
+machine learning;algorithms
+earth history;meteorite;precambrian
+soil;indoors;containers;soil amendment
+work environment
+voice;software
+wallet;bitcoin core
+philosophy;enlightenment
+faa regulations;instrument flight rules;iaps
+nikon;troubleshooting;focus;zoom;repair
+pitch shifting;pitch;workflow
+mix;mixing;internet;compression
+lander
+united states
+loyalty programs;terminology;star alliance
+zen;chinese buddhism;koans
+hypothesis testing;nonparametric;median;sign test
+equipment recommendation;nikon d90;nikon d7000
+theology
+newborn;feeding;crying
+marketing;mobile apps;website;launch
+infant;sleep
+combinatorics;graph theory;hamiltonian path;knight tours
+everyday chemistry;polymers
+sightseeing;public transport;transportation;argentina
+sensors;sensor fusion;ultrasonic sensors
+cipher;encoded message
+mlb;pitching
+star trek;star trek tos
+common cold;immune system
+vegetables;zucchini
+kings bounty the legend
+website;content
+science;classical antiquity;astronomy;navigation
+united states;employment;non profit;regulations
+organic chemistry;synthesis
+geophysics;plate tectonics;east africa rift
+logical deduction
+iphone;ios;email;notifications
+sony;firmware
+color management;printing;photolabs
+data;backtesting
+football;terminology;champions league
+geology;plate tectonics;tectonics
+weightlifting;exercise technique;push ups;bench press
+song lyrics
+probability;estimation;nonparametric
+landing;approach
+accidents;flight data recorder;cockpit voice recorder
+guitar;learning
+technique;guitar effects
+poker strategy;reading hands
+plot explanation;underworld;underworld awakening
+ipad;ipod touch;data synchronization;iphone
+philosophy of religion
+image processing;image
+olympics;scoring;heptathlon
+depth of field;preview;camera controls
+macroeconomics;investment
+launch;rockets
+soil;compost;manure;soil test
+syntax;terminology;semantics;reference request
+probability
+geology;fossil fuel;petroleum
+interviewing;work environment;dress code
+plot explanation;friends
+r;time series;autocorrelation
+software;business model;web development;pricing;hours
+onions;onion sets
+network;firewalls
+world of warcraft
+formal languages;regular languages;automata;finite automata
+economic geology;salinity
+ions;biochemistry
+interviewing;career development
+housing
+mathematics;geometry;matches;graph theory
+work;workflow
+particle physics
+rock climbing;belay
+nuendo;file
+cats;diet;eating
+vipassana;history;meditation insight
+sousaphone
+econometrics;statistics;self study
+landing;birds
+fisheye;ultra wide
+united states;discrimination;disabilities
+htc droid incredible;browser
+dawn of war DIGIT
+propulsion;orbit
+fantasy;novel;illustrations
+a song of ice and fire
+food safety;food poisoning
+lateral thinking;story;situation
+united states;legal
+backpacking;wilderness;etiquette;conservation;groups
+engines;famous players;anand;super grandmaster;calculation
+formal languages;automata;finite automata;regular expressions
+riddle;word
+united kingdom;courtesy;smoking vaping;etiquette
+phonetics;pronunciation;phonemes
+network;dns
+probability
+vipassana;history;satipatthana
+squats;barbell;trapezius
+clustering
+sources;everyday life
+banking;regulation
+distraction;email
+star trek;star trek ds9
+symbolism;short stories;nathaniel hawthorne
+diagnosis;houseplants;plant health;lucky bamboo
+assassins creed
+work environment;productivity;company culture
+toddler;behavior;teaching;toilet training
+grilling;barbecue
+riddle;word
+machine learning;data mining;evolutionary computing;history
+permutations
+easa regulations;ppl;jet;student pilot
+supplements;vitamins
+nutrition;weightlifting;creatine;weight gain
+betting strategy;pot limit
+differential geometry
+history;notation
+rock climbing;climbing;rope
+order theory
+vipassana;meditation insight;insight
+macos;macbook;hardware
+philosophy of technology;applied philosophy
+identification request
+united states;congress
+defining sustainability;energy efficiency
+windows mobile
+software industry;resume;career development
+ukraine;crimea
+functional equations
+lateral thinking
+supplements;vitamins
+germany;airport transfer;cologne;cgn
+efficiency;hardware
+fantasy genre;science fiction genre
+applications
+human biology;hematology
+project;promotion;media
+business model;funding;social networking
+r;stata
+watering;poisons;safety;hoses
+texas hold em
+gps;navigation;google maps navigation
+chicken;beer
+ocean;oceanography;ocean currents;antarctic
+cats;surgery
+education
+bayesian
+attitude;gnss;gps
+meteorology;planetary science;hypothetical
+network;firewalls;vendor selection
+authentication;biometrics
+chemical biology
+casting;credits
+sound effects;job;career;internships
+statistics;algorithms
+latin;romance languages;cases;romanian
+optimisation;stencil test
+genocide
+plot explanation;the road
+authentication;password management
+economic geology;petroleum
+safety;gear;security;automobiles
+machine learning;natural language
+structures;concrete;energy efficiency
+languages;inspiration
+deep learning;deep network;image recognition;object recognition
+mars;nasa;rovers;lander;experiment
+web application;trust
+faa regulations;faa;flight simulator;faa approval
+biochemistry;aromatic compounds;carbonyl compounds;heterocyclic compounds
+prevention;saliva;calculi stones;sialolithiasis;salivary gland
+mechanical engineering;electrical engineering
+graph theory
+estimation;maximum likelihood;normal distribution
+guitar;tuning;alternative tunings
+transactions;security;confirmations;commerce;face to face payment
+opening;analysis;blunder
+water;hydrogen bond
+running;marathon
+the rocky horror picture show
+asymptotics;landau notation
+point and shoot;camera recommendation;ruggedized equipment
+trees;planting;roots;magnolia
+united states;immigration;policy;diversity visa lottery
+religion
+network;dns;spam
+dogs;health
+atmosphere;tides;moon
+guitar;jazz
+raytracing;demoscene;raymarching
+parliament
+human anatomy;human physiology;blood circulation
+algorithms;discrete mathematics;searching
+structural engineering;beam;statics
+experimental chemistry;synthesis
+philosophy of technology;sociology;philosophy of war
+salary;negotiation
+budget;around the world;long term
+agi;gaming
+neural networks;convolutional neural networks;gaming
+karma;enlightenment;justice
+title;bones
+neural networks;reinforcement learning;definitions;backpropagation;ai basics
+united states;debt
+inspiration;scandinavian literature;moomin series;tove jansson
+fixed income;swaps
+ipod touch;wifi
+conversations;travelling;driving
+style;fiction;technique
+calculus
+botany;astrobiology
+protein;fat;strength training
+poetry;meaning;seamus heaney
+anatta
+geometry;intuition
+non fiction;essay;word choice
+toddler
+anova;error;measurement;reliability;agreement statistics
+np complete
+gtd;labels
+nobel prize;yiddish literature;isaac bashevis singer
+vermicomposting
+amazon river;tours;ecuador
+family;invitations;netherlands
+united states;judicial review
+rules;wsop
+analysis;south park
+option pricing;monte carlo
+algorithms;complexity theory;time complexity;discrete mathematics
+air traffic control;traffic pattern
+particle physics;mass;standard model;neutrinos;beyond the standard model
+book;setting;scene
+safety
+safari;safari extensions
+calendar
+xbox DIGIT;achievements;the secret of monkey island se
+sound design;techniques;creativity;creative inspiration
+opening;tournament;transpositions;houdini
+historical context;gilbert and sullivan
+nietzsche;free will;existentialism;sartre;marxism
+aircraft identification
+tech company;business model;product;pricing;saas
+cookies;knife skills
+plant uses
+software;labview
+professionalism;interviewing;software industry
+colonization;waste;sustainability
+artificial satellite;geosynchronous;end of life
+professionalism;job offer;united states
+texas hold em;rules;etiquette
+publishing;copyright
+model selection
+fat;body fat;body measurements
+containers;transplanting;blueberries
+continuity;neal stephenson;snow crash;diamond age
+llc
+tools;evernote;note taking;onenote
+statistics;pokerstove
+learning;dvd
+name significance;catch DIGIT;joseph heller
+r;logistic;clogit
+united states;19th century;native americans
+recycling;batteries
+recycling;plastic
+reaction mechanism;redox;synthesis;organosulfur compounds
+computability;automata;turing completeness;cellular automata
+dogs;safety;containment
+radiation;life support;eva
+dynamics;springs;vibration;stiffness
+music;television;copyright
+trading;mean reversion
+untagged
+geocaching;terminology
+trespass
+automated trading;equities;probability;algorithm
+options;implied volatility
+doctor who;cybermen
+machine learning
+confidence interval;z statistic
+electrical engineering;embedded systems
+growth;pivoting
+riddle
+sleeping bags
+meditation practicalities
+pattern
+gpu
+congress;senate;procedure
+nutrition;eggs
+adult movies
+rules;table tennis
+quadcopter;gyroscope;movement;dynamics
+analysis;the dark knight rises
+email;exchange;imap
+airports;london;walking;lcy
+star wars
+software;design;inverse kinematics;research;kinematics
+harry potter;voldemort;death eaters
+quantum mechanics
+united kingdom
+apologies
+sugar;carrots;juice
+nirvana;samsara
+macos;alias
+address
+style;citations;vancouver system
+controllers;macos
+baseball;history;formations;softball
+syntax;syntax trees
+fiscal policy;monetary policy;federal reserve;national bank
+r;survival;interpretation
+air traffic control;iaps;instrument flight rules
+20th century;world war two;military;nazi germany;soviet union
+adventure;hawaii;submarines
+novel;structure;turning point
+samsung galaxy s;contacts;home screen;home screen shortcuts;contact shortcut
+dogs;health;desexing
+pests;organic
+forces;collision
+microphone;sound effects recording;sound design
+plot explanation;prometheus
+r;cart;rpart;deviance
+launch;space elevator
+space station;future missions;lagrangian points;fuel depots;mission design
+blockchain;p2pool
+recycling;reuse;repair;reduce
+backup;data transfer;time capsule
+resume;terminology
+universal grammar;chomsky
+united kingdom;socialism;fascism
+web application;tls;http
+hardware;mac;upgrade
+europe;nobility;modern
+energy;wind power
+middle east;contemporary history;islam;iran;zoroastrianism
+safari;language;safari extensions
+regression;multivariate analysis;overfitting
+cajun cuisine;sausages
+street photography;locations
+raytracing
+gear;children
+macos;startup;launchd;user account
+lateral thinking
+tools
+diabetes
+plot explanation;analysis;tinker tailor soldier spy
+poker tools;holdem manager
+meteorology;clouds;weather satellites
+artificial intelligence
+game of thrones;a song of ice and fire
+records
+maps;gps;spain
+visible light;biophysics;vision
+iphone;bluetooth;fax
+career development;psychology;work environment;management
+cancer
+applications
+dogs;health;desexing
+finance
+mars;rovers
+boots;blisters
+meteorology;weather forecasting;rainfall
+philosophy of science;metaphysics
+electrons;orbitals
+deflation
+camping;fire starting
+texas hold em;poker theory
+zoology;immunology
+data visualization;communication
+ergonomics;workspace;office setup
+strength;injury
+security;lost phone
+customer development;idea;pitch;ycombinator
+plot explanation;character;the dark knight rises
+guitar;theory;tuning
+technique;keyboard
+rules;ice hockey;nhl
+ipod touch
+electric guitar
+beverages;soda;peaches
+flash;sigma
+lens;equipment recommendation;nikon
+professionalism;management
+physiology;sleep
+history of literature;greek literature;homer;latin literature;virgil
+rubiks cube
+five precepts;wrongview
+macos;customization;font;adobe photoshop
+first appearance;analysis
+sprinkler system
+organic chemistry;heat;hydrocarbons
+interviewing;stress
+online chess;grandmaster
+neuroscience;anatomy
+rubiks cube
+localization;kinematics;robotic arm;inverse kinematics
+software
+united states;hunting;cougars
+starcraft DIGIT
+lightroom DIGIT
+biotechnology
+cats;sleep
+random walk;investment
+texas hold em;reading hands
+data transformation;scales;robust;optimal scaling
+style;word choice;business writing;resume
+exercise;calories
+plot explanation;character;kanchana
+authentication;operating systems;linux;multi factor
+syntax;terminology
+home screen shortcuts;downloading
+air travel;electronic items;gps navigation
+united states;parties;soviet union
+raspberry pi;otherservos
+call of duty modern warfare DIGIT;achievements
+lens;equipment recommendation;wide angle;pricing
+legal;paperwork;germany
+orbitals
+mechanical engineering;gears
+ethics;theology;buddhism;desire
+samatha;abhidhamma;satipatthana;defilements;anapanasati
+united states;president;law;congress
+safety;ul
+kinematics;manipulator
+plot explanation;the grudge
+economy;political system;corruption
+european union;trademark;parody
+organic chemistry;nomenclature;aromatic compounds
+sous vide;molecular gastronomy;vacuum
+logical deduction;calculation puzzle
+terminology;pokertracker
+philosophy of science;pragmatism
+interviewing;united states
+interviewing;software industry
+vipassana
+squats;form
+lateral thinking;situation
+entropy;compression
+option pricing
+photoshop;photoshop cs5;sky
+film;low budget;business;free
+organization;techniques;routine
+molecular biology;translation
+word;situation
+appsec;csrf;asp.net mvc
+foley artist;foley;gear
+protocol;mining pools;bitcoind;getwork;difficulty
+marketing;website
+sauce;mint
+lawn;grass;lawn repair
+dermatology;micronutrients
+dogs;training;leash training
+phonetics;voicing
+salary;negotiation;probation
+reference request;data request
+civil engineering;bridges
+resume;linkedin
+cats;aggression;play
+supply and demand;interest rate;investment
+marketing;equity;idea;team;design
+software
+cats;children
+constitutional monarchy
+title;watership down;richard adams
+ai design;training
+rabbits;death;fear;stress
+jet engine;turbine;engine starting
+battery life;cellular radio
+airport;landing fees
+plot explanation;i am legend
+engines;blitz
+pawns
+machine learning;neural networks;terminology;rnn;topologies
+appsec;web application;authentication;java
+pest control;pesticide;fruit trees
+correlation;var;covariance
+city living
+guitar;learning
+surplus;welfare
+socializing;behavior;treats;rabbits
+ipad;screen
+software;lightroom
+quadcopter
+online;betting strategy;tells
+blockchain;namecoin;merged mining;op return;fee market
+safety;bears;cougars;wolves
+metaphysics;aesthetics;heidegger
+intellectual property
+air;aircraft
+weightlifting;books;olympic
+puzzles;problems
+personal practice;meditation hindrances;well being;meditation practicalities;right effort
+air conditioning
+management;technology
+bitcoind;transaction fees;mining reward
+sightseeing;layovers;qatar
+body fat;temperature
+first person shooter;terminology
+iphone;temperature
+voice chat;mumble
+opening;learning;theory;best practice
+flute
+brain;synapses
+mobile robot;wheeled robot
+concentration;self management;habit
+sheet music
+running;conditioning
+tools
+fish;aquarium;freshwater;cichlid
+mars;probe;imaging;lander;mars reconnaissance orbiter
+kinematics;motion planning;forward kinematics
+physical chemistry;mixtures;intermolecular forces;nanotechnology
+containers;germination
+real estate;civil law
+motor
+semiconductor physics
+product;e commerce;sell;pre launch
+guitar;tuning
+portfolio management;portfolio;pairs trading
+remote control;mac mini;boot
+blood;fruits;vegetable;triglycerides;lipids
+hashpower;merged mining
+indoors;plant recommendations;light;office gardening
+control;pid;tuning
+20th century;war;japan;vietnam war;vietnam
+lighting
+correlation;mutual information
+metaphysics;time;physics
+organization
+aquarium;freshwater;community aquarium
+omaha
+dentistry;oral health
+dogs;health;feeding;safety
+vaccination;steroids;typhoid
+slam;mapping;laser;occupancygrid
+electronics
+cats;behavior;containment
+work;sleep;hours
+patents
+pairs trading;mean reversion
+anova;chi squared;generalized linear model
+noise reduction;library sound effects
+economics;destroy bitcoins
+exploration;nautical
+mindfulness;sleep
+conversations;united states;how to help
+range;equity
+algorithms;asymptotics;mathematical analysis;landau notation;master theorem
+gtd;projects;management
+audio restoration
+vipassana;refuge
+marvel;x men;character identification;x men cinematic universe;x men first class
+astrophysics;neutron stars;neutrons
+terrorism;islamic state
+inspiration;j k rowling;harry potter
+opening;ruy lopez
+determinism
+dessert;gelatin
+mechanical engineering;fluid mechanics;hydraulics
+options;option pricing;interest rates;replication
+ocean;sedimentology
+technique;electric guitar
+mobile robot;ros;navigation
+neural networks;machine learning;deep learning;research;programming languages
+control;arduino;microcontroller;motor;power
+turing machines;tape complexity
+formal languages;regular languages;pumping lemma
+senescence
+pseudonym;lemony snicket
+backup;namecoin;rescan
+fish;aquarium;saltwater;brineshrimp
+poetry;meaning
+eye;ophthalmology
+DIGIT froyo
+propulsion;fuel;cryogenics;fuel system
+political philosophy;democracy
+publishing;technical writing
+trading
+projects;planning
+political system;iran
+faa regulations;air traffic control;runways;procedure
+flash;metadata
+soft question;education
+rules;track and field
+human biology
+epigenetics
+declarative programming
+motivation;self management
+professional education
+gardening;plants
+reference request;formal grammars
+analysis;chess variants
+sit and go
+references;humor
+transactions;client
+driving;france
+energy efficiency
+colonization;planet;climate
+calculation puzzle;geometry
+handicapping
+turkey
+professionalism;networking;new hires
+seeds;germination
+p2sh
+european union;patents
+evolution;dna;rna;molecular genetics;introns
+composting;apartment
+operating systems;file system;monitoring
+poker theory
+tours;australia
+exercise;digestion
+appsec;web application;xss
+3d dot game heroes
+see and avoid;vmc
+thermodynamics;temperature
+spacecraft development;standards;construction;integration;clean room
+optics;quantum optics
+r;categorical data;data transformation
+samsung galaxy s;ebook reader
+geometry;polyhedra;platonic solids
+dogs;training
+analysis;the dark knight
+organic chemistry;reaction mechanism;geochemistry
+hiss;zoom h4n
+resume;professionalism
+mobile apps
+thermodynamics;earth;solar system
+currency;commodities
+data;time series
+diet;protein;high protein
+limit order book;hardware
+opening;ruy lopez;berlin;petroff defense
+law
+mountaineering;self arrest
+r;clustering
+algorithm analysis;greedy algorithms
+macroeconomics;consumption;money
+physical chemistry;kinetics
+supplements
+video;screen;leopard;tutorials
+self study;maximum likelihood
+cultural history;mongol empire
+buddhas;pure land
+russian literature;alexander pushkin
+trading;programming;hedging;algorithm
+mining pools;solo mining;terminology;shares
+kyma;max msp;gear;hardware
+motor;mechanism
+software;lightroom;lightroom DIGIT
+dogs;grooming
+returns;equity curve
+white balance;gray card
+tools;frost;tool maintenance;hoses
+job search
+tools
+election;election requirements
+nuclear weapons
+penetration test;attacks;xss;appsec
+cell biology;immunology
+search and rescue
+reference request
+statehood;africa
+british empire;colonization;africa;travel
+united states;leave no trace;national park;etiquette
+pca
+artificial satellite;geostationary;tracking;observation
+physical chemistry;reaction mechanism;home experiment
+football;trivia;ranking;fifa;world cup
+terminology;formal grammars;ambiguity
+classification;cross validation;pac learning
+DIGIT eclair;htc hero;photos
+reference request;terminology;philosophy of language
+ocean;enso
+tron
+colleagues
+strategy;positional play;middlegame
+abstract algebra;ring theory;examples counterexamples
+safety;backpacking;food
+interstellar travel;navigation
+reptiles;lizards;terrariums;plants
+chicken;thickening
+macroeconomics;production function
+united kingdom;rights
+weight loss;supplements
+learning;books
+opening;learning;theory
+mac;miner configuration
+keyboard;software;services;shortcut menu
+computational linguistics;resource request;spanish;frequency;analysis
+diagnosis;tomatoes
+requests
+flight planning;airline operations;oceanic;casa regulations;etops
+classification;binary data
+software industry;dress code;united kingdom
+strategy;endgame
+sound effects;dungeons and dragons tv
+running
+linear algebra
+hiring process
+linear algebra;euclidean geometry
+watson;problem solving
+renewables;wind power;biofuels
+sleeping pads
+string theory
+color management;capture
+geophysics
+applied linguistics
+transformations;matrix
+spices;herbs
+novel;story identification
+health;allergies
+appsec;logging;compliance;pci dss
+resources
+anatomy;histology
+aircraft design;software
+combinatorics;matrices
+survival;navigation;compasses;uk
+texas hold em;nlhe;rules
+voice;health
+weightlifting;bodybuilding;workout routines;muscle groups;toning
+payment
+international;rules of war;geneva convention
+lord byron;terminology
+camping;maps;ireland
+analysis;evil dead;dead alive
+star trek
+social networking;lean startup;network effect;product market fit;innovation accounting
+pre schooler;death;cognitive development;emotion
+paper wallet
+risk;modern portfolio theory;skewness;kurtosis
+health;first aid;blisters
+bicycling
+post processing;digital vs film;bracketing
+philosophy;robots
+sound design;hits
+general relativity;differential geometry
+united kingdom
+mahayana
+artificial satellite;failure;myth busting;integration;noaa
+publishing;technical writing;legal;money
+film techniques;effects;chronicle
+theory;strategy;pawn structure;middlegame
+story identification;aliens;short stories
+riddle;pattern
+donnie darko;richard kelly
+graph theory
+equipment;basketball
+guitar;maintenance
+human biology
+team fortress DIGIT
+xcode
+education;teacher
+neural networks;machine learning;applications
+cheese
+climate;younger dryas
+health;reptiles;lizards
+algebra precalculus;exponential function
+analysis;character;into the wild
+economy;academic research
+htc sense;htc droid incredible;facebook
+landing;approach;procedure;visual approaches
+taxation;property
+convolutional neural networks;deepdream
+atmosphere;weather;meteorology;jet stream;air currents
+software;windows;windows DIGIT
+network;tools;firewalls;audit;operations
+international trade
+launch;cost
+definition;theft
+publishing;novel;fantasy
+rules;cricket;officiating;icc
+toddler;sleep;bed wetting
+regression;repeated measures
+complexity theory;np complete;dynamic programming
+interviewing;new job;recruitment
+mechanical engineering;materials;data
+authorization;permissions;access control;rbac
+riddle;word
+launch;ssto
+cancer;radiologic studies
+short story;marketing;sales
+international law;israel;china
+plastic;paper
+kinect;input
+professionalism;management;internship
+asset pricing;open economy macro;financial economics
+strategy;cards
+work;health
+history of;hard sci fi;math
+vipassana;meditation practicalities
+sauce;cheese;roux
+classical mechanics
+canon;equipment recommendation;used equipment;canon 5d
+united states;american revolution
+iphone;photos;iphoto;image capture
+united states;debt
+20th century;united states
+lawn
+resume
+zoology
+weight loss;burn fat
+source engine;server administration
+complex analysis
+design;management;data;workflow
+tournament;blinds
+ice hockey;nhl;stanley cup
+diaper
+machine learning
+iphone;ipod touch
+trading
+calculus;algebra precalculus
+united states;executive branch
+tech company;investment
+visas;georgia country;caucasus;australian citizens
+sherlock holmes;arthur conan doyle;setting
+black scholes;hedging
+left DIGIT dead DIGIT
+christianity;theodicy
+actuator
+camping;tents;sleeping bags
+india;terrorism
+home;personality
+iphone;software recommendation
+running;pain;knees
+opening;theory
+motivation
+story identification;young adult;spaceship
+volatility;fx;forward;delta
+lens;canon;pentax;lens mount;adapter
+sleep
+fix
+excel;sql
+human biology;eyes
+image processing
+marketing;business plan;advertising;financing;bootstrapping
+particle physics;education
+cats;health;grooming
+air travel;japan;ferries;tokyo;okinawa
+pork;fats;filtering
+eastern philosophy;problem of evil
+network;exploit;malware
+pollution;decarbonisation;greenhouse gas emissions
+employment;competition
+computational chemistry
+theory;piano;composition;classical guitar
+economy;planning;law
+infant
+rta;mixing;voices
+eggs;boiling
+electromagnetism;forces;magnetic fields;energy conservation
+food;nutrition;calories
+star wars;politics;morality
+storage method;oven;pizza stone
+criminal law;rights;us constitution
+lens;adapter
+faa regulations;faa;light sport aircraft
+proof techniques;correctness proof;loop invariants
+guitar;chords
+jasper fforde;thursday next;allusions
+analysis;ending;oldboy
+editing
+texas hold em;nlhe;tournament
+3d;projections
+itunes
+call of duty modern warfare DIGIT
+quote identification;federico garcia lorca
+infant;sleep
+evolution;botany;ecology;plant physiology;plant anatomy
+physical chemistry;quantum chemistry;spectroscopy
+history of philosophy;metaphilosophy
+rules;football;fifa;video review
+search
+mechanical engineering;structural engineering
+quantified self
+odds
+theology;ontological argument
+nintendo wii;new super mario bros wii
+atmosphere;ozone
+united states;british empire;naval
+time machine;schedule
+dialects;arabic;semitic languages;language isolates
+email
+movie;science fiction genre;props
+app store optimization
+united states;driving;california
+treatment;feet
+statistical significance
+software;photo editing;image processing;noise;noise removal
+onomatopoeia charades
+organic chemistry;explosives
+united states;awkward situations;social event;invitations
+dentistry;natural remedy
+process;scrivener
+health outcomes;angioplasty;angiography
+religion;morals
+consumer theory
+traditions;monasticism;rituals
+google play store;DIGIT froyo;installation
+books;mental
+safety;morocco
+treatment;endocrinology;gynaecology;pcos;metformin
+fiction
+personal practice;vipassana
+computability;turing machines;simulation
+skiing;backcountry;mold
+dumbbells
+health;food
+timelapse;intervalometer
+epistemology;philosophy of science;skepticism;induction
+lens;canon;film
+deep learning;automation
+ipod touch;mobileme;email
+macbook;video
+editing
+penetration test;terminology
+running;jogging
+water;home
+logic;model theory
+airline operations;airline pilot
+engines;software;rating;elo;uci
+baking;bread;crust
+career development;applications;education
+war
+easa regulations;software
+mining pools;solo mining;mining profitability;pool payout methods
+greetings
+dogs;socializing;introducing pets
+math software;education
+english;corpora
+general relativity
+recruitment
+workout routines;strength training;stronglifts
+usb connection mode;samsung galaxy apollo;mac os x
+clustering;data visualization;networks;partitioning;modularity
+star wars
+ocean;turbulence;simulation
+time travel;the time travelers wife
+stochastic calculus;martingale
+autoimmune disease
+meteorology;climate;temperature
+monk
+infant;speech;sign language
+htc sense;htc desire z;auto rotation
+opening;pawns;pawn structure;center
+cosmology;neutrinos;big bang;baryons
+special relativity;photons;mass;speed of light;faster than light
+wi fi;DIGIT eclair;wifi tethering
+cats;aggression;multi pet families;veterinarian
+children;book rec
+reference request;vocabulary
+epistemology
+work;relaxation
+europe;inventions
+starcraft DIGIT
+weightlifting
+evolution
+gear;car camping
+nutrition
+terminology;annotation;winning
+pattern;number sequence
+recycling;reuse;uk
+discipline
+definitions;immigration
+roles;definitions;experiences;websites
+reading order;brandon sanderson;cosmere
+brian jacques;redwall series
+greek literature;setting;homer;the odyssey
+terminology;metaphilosophy
+europe;planning;online resources;backpacking
+ipad
+graph theory;np complete;reductions
+conversations;friends;conflict aversion;difficult people
+character analysis;c s lewis;the chronicles of narnia
+baking;potatoes
+classical mechanics;homework and exercises;coordinate systems
+food safety;chicken;meat;steak;marinade
+services;payment;domain registering
+electric guitar;instruments;construction;lutherie
+iphone;software recommendation;applications;contacts
+plot explanation;character;prometheus
+greek literature;sophocles;georg wilhelm friedrich hegel;antigone sophocles
+team;agile;process;lean
+identify this movie
+professional education;known vulnerabilities;research
+macroeconomics;data request;unemployment;labor economics
+faa regulations;safety;visual flight rules
+meteorology
+texas hold em
+macroeconomics
+poly wav;logic;pro tools;bwf;192khz
+fish;aquarium;saltwater
+united states;etiquette;parties;birthdays
+bodybuilding;doms;deltoids
+probability;poker tools
+economy;finance;banking
+formal languages;context free
+color;color separation;conversion
+smoking;pregnancy
+vectors
+rules;tournament
+exercise;weight;pediatrics
+identify this movie;documentary
+ssh
+seismology;earthquakes
+human biology;zoology;cell biology;metabolism;cellular respiration
+gear;camping;winter;winter camping;sleeping pads
+conversations;work environment;misunderstandings;italy
+convolutional neural networks;unsupervised learning;backpropagation
+volcanology;volcanoes;lightning
+fruit;food preservation;canning;jam
+autopilot;flight controls
+first aid;health;injury
+techniques;research;brain training
+texas hold em;rules
+live;rules
+lateral thinking
+algorithms;data structures;algorithm analysis;mathematical analysis;discrete mathematics
+topical cream gel;acne;face;eyelids
+lightroom;flickr
+meteorology;rainfall
+phonetics;historical linguistics;greek;ejectives
+cell membrane;adaptation;cell biology
+web application;attack prevention;proxy
+sightseeing;california;san francisco;geek travel;silicon valley
+price theory
+analysis;historical accuracy;abraham lincoln vampire hunter
+texas hold em;live;learning
+learning;books;online
+logic
+statistics;modeling;random matrix theory
+passenger;cabin pressure;oxygen
+environmental impact;green it;computing
+marketing;growth;customer development
+domain name
+mining profitability;energy consumption
+geometry
+gravity;simulations;computational physics
+canon;macro;adapter;reverse mount
+red dead redemption
+science;pandorum;evolution
+united states;election
+film location;crminal intent
+heat;materials
+plot explanation;analysis;inception
+texture;shader;optimisation
+organic chemistry;carbonyl compounds;aldol reaction
+car rentals;new york city
+digital;sensor;equipment damage
+food;astronauts
+mining pools;mining software
+mathematics;strategy;weighing
+funding;business model
+passwords;databases;ldap
+fiction;collaboration;shared;world building
+currency
+character;harry potter
+macroeconomics;data request;statistics
+visas;multiple entry;new zealand citizens;zimbabwe
+traffic;new york;new york city
+bezier curve
+united states;constitutional law
+waterproofing;waterproof clothing
+image recognition;theory
+counter strike source;source engine
+repertoire
+cats;desexing;surgery
+poker strategy;kill
+opengl;transformations;projections
+diana wynne jones;fire and hemlock
+grand theft auto DIGIT
+correspondence chess;cheating
+sound design;animation;film sound design
+enlightenment;gautama buddha
+government debt
+quadcopter
+ipad;data synchronization;ms office
+syntax;terminology;linguistic typology;unaccusative;valency
+united states;legal;llc;business registration;maryland
+ethics;terminology
+mechanical engineering;applied mechanics
+new super mario bros wii
+management
+millennium trilogy;trailers;the girl with the dragon tattoo
+cultural history;france;language;arabia;north africa
+language development
+epistemology;reference request
+forward kinematics;dh parameters
+business risk;impact
+russia;middle east;syria
+tasks
+syntax;morphology;semantics;aspect
+algorithm;computational geometry;interpolation
+opengl;opengl es
+cardio
+nerves;tumors;frequency
+commercial aviation;gps;ads b
+microeconomics;game theory;principal agent
+safety;survival;first aid;snakes;medical emergencies
+logic;epistemology;time
+voice
+hugh howey;wool
+guitar;maintenance;banjo
+iphone;password
+starcraft DIGIT
+colonization;planetary science;jupiter;power;europa
+symmetry;conservation laws;lagrangian formalism;noethers theorem
+structural analysis
+teaching;behavior
+super mario galaxy DIGIT;super mario galaxy
+alternatives
+mechanical engineering;kinematics
+human biology;metabolism;amino acids;vitamins;homocysteine
+oceanography;glaciology;human influence;cryosphere
+cheats
+lateral thinking
+friends;social development
+algorithms;graphs
+criminal law
+abstract algebra
+poker strategy
+agriculture
+low earth orbit;solar sail;atmospheric drag
+plot explanation;character;the artist
+comparative religion;religion
+mars;history;nasa;curiosity;camera
+first appearance
+aperture;optics
+cloud computing
+economy;socialism
+phone
+book rec
+international;military;nuclear weapons;cold war
+behavior;discipline;primary schooler
+corporate finance
+chess
+microeconomics;choice theory
+technique;physics;trumpet;note bending
+aircraft performance;terminology;theory
+theory;investment
+meditation insight
+ethics;political philosophy;rationality;qualia;phenomenology
+star wars
+film industry;distribution;american cinema
+election
+safety
+style;tenses
+cell biology
+english;word problem;geography
+software;fide;rating
+infant;sleep;newborn;crying
+salt
+pomodoro technique
+mechanical engineering;design
+body fat;body measurements
+airbus;passenger
+random generation;proof;randomness
+note taking;paper
+pakistan
+metaphysics;reference request
+macroeconomics
+sailing;boats
+string theory;quantum gravity;loop quantum gravity
+visas;singapore
+sweat
+nutrition;vegetarianism;proteins;amino acids
+primary schooler;cellphone
+exercise;high intensity;genetics
+oak
+mechanical engineering
+mechanical engineering;gears
+software;pdf
+imu;sensor fusion;hri
+weight loss;metabolism
+visas;work;visas on arrival;working holiday;working visas
+symbolism;william shakespeare;much ado about nothing
+software industry;resume;job search
+brain;fatigue;brain fog;mental exhaustion
+neural networks
+diet;rabbits
+protocol;development;bitcoind;json rpc;getmemorypool
+debris;environment
+ebook;printing
+information retrieval
+european union;euro
+language;curry
+computability;undecidability
+star trek
+geodesy
+budget;legal;europe;camping
+appsec;cryptography;theory
+electric guitar;maintenance
+mathematics;geometry;optimization
+algorithm;image processing;pathtracing;denoise
+food;fruits and vegetables
+safety;autopilot;gps;af447 accident
+vipassana;anapanasati;samadhi
+game theory;mathematical economics;mechanism design;auctions
+pro tools;compression;normalize;0db
+neural networks;deep learning;research
+pid;wheeled robot;odometry
+operating systems;computer architecture;process scheduling
+macbook;development;hardware recommendation
+hiring;freelancing
+market data;software
+climbing;rappelling
+microeconomics;data request
+arduino;wireless
+rock climbing;exercises;crack climbing
+europe;airlines;australia;korean air
+geophysics;geochemistry
+hiking;survival;water
+mechanical engineering;civil engineering;highway engineering
+complex analysis
+landscaping;pond
+bayesian;kde
+graphs;shortest path
+structured data
+terminology;tennis
+turing machines;simulation;machine models
+opening;theory;world championship;carlsen;anand
+dealer;button
+mobile robot
+equity;founder;exit
+genetic algorithms
+microeconomics;consumer theory
+trigonometry
+shopping;clothes
+philip k dick;the man in the high castle
+historical linguistics;language change
+quadcopter;distributed systems
+trackmania forever
+technology;flight computer;uncrewed spaceflight
+military;soviet union;cold war
+molecular biology;enzymes
+food safety;mushrooms
+flush
+composting;vermicomposting
+lateral thinking
+slow cooking;language
+gtd;research
+labor economics;wages
+strength;training;gym
+cases;polish
+rockets;space shuttle;construction;standards;booster
+target heart rate
+variance;factor analysis;definition;online
+client;development;bitcoin core
+rebirth;teaching;parents;children
+black scholes;option pricing
+toddler;infant
+character analysis;lord of the flies;william golding
+email;privacy;legal;logging
+resident evil DIGIT
+mechanical engineering;automotive engineering;corrosion
+riddle
+mechanical engineering;fasteners
+google play store;paid apps;freeware
+currencies
+ugv;lidar
+aquarium;fish
+local customs;costa rica
+terminology;marginal
+star trek;borg
+logic;theology
+cryptography;exploit;ipsec;operating systems;openbsd
+plant health;ground cover
+health;reptiles;lizards;bearded dragon;skin condition
+voice
+united states;gambling
+composting;paper
+memory
+history of philosophy
+riddick franchise
+management;promotion
+cricket;history;interruption
+reinforcement learning;ai basics
+rubiks cube
+fruit trees;indoors;tree care;seedlings;grapefruit
+macroeconomics;reference request;labor economics;unemployment;empirical evidence
+software industry;job search
+calculation puzzle
+gamma
+logic;big list;reference request
+competition;community;feedback;skills development
+special relativity;energy;condensed matter;photons;mass
+electromagnetism;homework and exercises;forces
+directx12;vulkan
+stochastic processes
+pocket pair
+friends
+enigmatic puzzle
+cats;gender differentiation
+marketing;mobile apps
+behavior;discipline;education;psychology
+microbiology;staining;bacteriology
+nutrition
+hash;private key;sha256;passphrase
+music;fans
+human biology;digestive system;food
+visas;usa;esta;us visa waiver program;new zealand citizens
+machine learning;deep learning;theory;computational linguistics;learning theory
+titles;punctuation
+mobile robot;localization;slam
+time series;algorithms;frequency;real time
+mechanical engineering;applied mechanics
+maps
+science;six realms
+hardware;software
+running;equipment
+natural language processing;human like;ethics
+team
+first blood
+human biology;microbiology;parasitism
+electromagnetism;waves;geophysics;elasticity
+newborn
+microeconomics
+language acquisition;psycholinguistics
+money;teachers;acceptable behavior
+logic;falsifiability
+appsec;web application;penetration test;tools;web scanners
+genetics;gene expression;human genetics
+food;consumption
+plot explanation;men in black DIGIT
+tennis;strategy
+theory;pawns;draw;chess variants;pawn endgame
+macos;snow leopard;leopard
+title;transformers;dark of the moon
+samsung galaxy s;DIGIT eclair;front camera
+tech company;international;legal;b2b
+auto correlation
+work;sleep
+supplements;fat loss
+macbook;upgrade;memory;hardware recommendation
+number theory
+rules;cricket;equipment;officiating;icc
+arma
+tasks;concentration;work
+templates;design
+mtgox;bitcoinica
+the DIGIT;supernatural abilities
+physical chemistry;stoichiometry
+publishing;short story;erotica
+contracts;company culture;management;pay
+dwarf fortress
+cryptography;certificates;public key infrastructure
+terminology;models
+roman empire;roman republic;ancient rome
+lens;canon;used equipment
+snails;gender differentiation
+classical mechanics;lagrangian formalism
+learning;blitz;online;online blitz
+electromagnetism
+texture;radiosity
+iaps;navigation;instrument flight rules;localizer
+molecular biology;rna;lab techniques
+lens;maintenance
+client;thin clients;bitcoin wallet app
+endgame;checkmate;queens;kings;elementary mates
+cats;diet
+software recommendation;vpn;anonymizer
+ice sheets;antarctic;permafrost;ice
+trade
+dogs;pet selection
+xbox DIGIT
+united states;canada
+transactions;alternatives;network
+software recommendation;screen capture
+bitcoind
+logical deduction;decanting problems
+high frequency;order execution
+reference request;soft question;big list;book recommendation
+military;armed conflict;international law;military law
+organic chemistry;synthesis;experimental chemistry;purification
+general relativity;quantum gravity;curvature;virtual particles;carrier particles
+labor economics;reference request;minimum wage;general equilibrium
+mechanical engineering;fluid mechanics;turbines
+climbing;belay;top roping
+philosophy
+budget;norway
+authentication;authentication;sso
+nazi germany;hitler
+common cold;seizure
+odds
+guitar;maintenance;strings;tremolo system
+hiking;shoes
+rebirth
+heating;fireplace;biomass
+xbox DIGIT;fallout DIGIT
+decision theory;risk
+control
+finance
+toddler;pre schooler;bilingual;moving
+macroeconomics;reference request;financial economics
+abuse
+plant health
+fiction;character development
+theravada;karma;gender
+applications;references
+security;wallet;bitcoin core
+startup costs;funding
+strawberries;diagnosis
+texas hold em;poker stars
+christianity;building
+fire;legality;uk
+data;market data;order;feed
+pattern
+equity;llc
+song lyrics;queen
+sleep transition;habit
+technique;violin;bow
+algorithms;asymptotics;approximation
+ipod touch;external disk
+stochastic processes;random walk
+pseudonym;ursula le guin
+health;fleas
+mineralogy;paleomagnetism
+data;equities;automated trading;programming
+water;electricity
+set theory
+identification;seedlings
+mechanical engineering;structural engineering;structures;stresses
+vipassana;meditation insight;meditation practicalities
+core
+shadow;shadow mapping
+neural networks;convolutional neural networks
+united states;united kingdom;northern ireland
+aquarium;maintenance;algae
+public transport;germany;cities;central europe;czech republic
+equipment recommendation;filters;neutral density
+quote identification
+injury
+sleep;pre schooler
+general topology
+style;technical writing;indexing
+neural networks
+vegetables;bolting;lettuce;flowering
+video
+film;scanning
+metaphysics
+biochemistry;physiology;metabolism;digestive system
+trees;identification
+chronicle
+gear care
+campaigning
+epistemology;metaphysics;ontology;consciousness;philosophy of physics
+pali canon;reference request
+complex analysis
+sample rate
+money;germany;payment cards
+opening;theory;1.d4;catalan
+film;35mm;developing;digitizing
+research;naming
+genetics;meiosis
+props;DIGIT rock
+poetry;henry reed
+machining
+aquarium;snails;freshwater
+story identification;russian literature;strugatsky brothers;apocryphal works
+number theory;algebra precalculus
+behavior
+morphology;reference request;online resources;portuguese;morphological typology
+economy;taxes
+interviewing;hiring process;career development;professionalism;new job
+swimming;activities
+finance;financial economics
+organic chemistry;nomenclature
+paleoclimatology;precambrian;glaciation
+etymology;proto indo european
+interest rates;factor models;negative;correlation matrix
+rendering;lighting
+equities;stochastic processes
+transport
+ps3;mag
+air traffic control;radar
+illusion
+non fiction
+magnets
+raytracing;algorithm;monte carlo
+hiking;water
+calories;daily caloric intake;app
+starcraft DIGIT;mods;galaxy editor
+author identification
+symbolism;ray bradbury;fahrenheit DIGIT
+password management;client side
+office space
+camping;beaches;malaysia
+funding;lean startup;finance;expansion
+resources
+asset allocation
+namecoin;history;merged mining
+quantum field theory
+safety;air traffic control;landing
+hiking;backpacking;food
+color;presentation
+physical chemistry;materials;heat
+airlines;serbia
+non violence
+weed control;poisons;herbicide
+web application;attack prevention;web browser
+algorithms;algorithm analysis;proof techniques;lower bounds
+computational geometry;mesh
+practice;rhythm;bass guitar
+planning;australia;no advance plans
+novel;planning;flashback
+home screen shortcuts;google maps;google maps navigation
+pumpkins;squash;zucchini
+democracy
+procrastination;computers;concentration
+artificial neuron;biology
+risk;risk management;risk models;macro
+fiction;creative writing;science fiction
+australia;real estate
+casting;john carter;rome
+image stabilization;blur
+thermodynamics;temperature;heat;convection
+inflation;money supply;friedman
+protein;exercise technique
+united states;economy;statistics
+philosophy
+raytracing;lighting
+forensics;tools
+classical guitar
+united states;taxes
+digital;conversion;distortion;cleaning;tools
+symbolism;burning the old year;naomi shihab nye
+technique;practice;exercises;electric bass guitar
+customer development;growth
+analysis;elephant
+sync;files;file transfer
+learning;piano
+bitcoin core
+time management;speed
+legal;copyright
+learning;grandmaster;blindfold chess;beginner;talent
+homeschooling
+corporate finance
+hiking;backpacking;trails
+molecules;theoretical chemistry;elements
+meteorology
+legal history;jury nullification
+morphology;verbs;latin;tense;participles
+mechanical engineering;heat transfer
+criminal law;india;pornography
+physical chemistry;thermodynamics;spectroscopy
+life expectancy
+knives;sharpening
+cryptography;key exchange;key generation
+pc;virtualization
+massage
+macroeconomics;supply and demand
+rules;live;etiquette;cheating
+learning
+metaphysics;existence;descartes;rationalism
+puzzles
+energy efficiency;air conditioning
+aircraft design;wing
+automount
+technicals;indicator
+united states;california;traffic
+sound design
+canon;body;international differences
+hayao miyazaki
+macroeconomics;risk aversion;interest rate
+opening;theory;pawns;pawn structure;center
+thank;social
+sales
+united states;driving
+landscaping;stump removal
+scales;tuning;chromatic;octave
+iphone
+interviewing;resume;applications
+earthquakes;plate tectonics
+regression;svm
+employment;rights
+weed control;herbs
+recorder mixer;gear;recommendations
+compute shader;opencl;cuda
+language acquisition
+mobile robot
+utility;preferences
+guitar;learning;chords
+material science
+home;toxic chemicals
+heating;cooling
+solubility;solvents
+physical chemistry;electrochemistry
+plot explanation;saw
+exposure;camera basics;shutter speed
+design;otherservos;arm
+venture capital
+star wars;stormtroopers
+left DIGIT dead DIGIT
+19th century;british empire;egypt;ottoman empire
+strength;muscle;stretching;glutes
+options;probability;calculation
+substitutions;flavor;mayonnaise
+dialogue;marvel cinematic universe;iron man DIGIT
+genetics;gene expression
+infant;breastfeeding;parents;breastmilk
+trading
+geology
+learning;books;beginner
+logic;modal logic
+currency;optimal currency area
+hiking;navigation;maps
+blanching
+home
+friends;india;how to help;grief
+192k;hiss
+infection;pediatrics
+risk;credit
+ios
+geometry
+star wars;powers;the force;good against evil
+distributions;bayesian;modeling;prior;maximum entropy
+purification;food chemistry
+mining pools;port;miner configuration
+complex analysis
+law;illegal immigration
+criminal law;united states
+gpu;webminer
+nutrition;post workout
+nirvana;buddhas;nana
+workout
+osmos
+blockchain;client
+setting;dyson sphere
+network;dns;data leakage
+harper lee;to kill a mockingbird
+dogs;growing
+film techniques;first appearance
+phenomenology;foucault;structuralism
+groundwater;water
+statistics;soft question;applications
+united states
+reference request;discrete mathematics
+wallet;blockchain;bitcoind;bitcoin core
+terminology
+business registration;copyright;trademark;domain name
+references
+style;citations
+books;suggested order;enders game
+phonology;optimality theory
+online;rules
+orbital mechanics;orbital maneuver
+story identification;time travel;tv;prehistoric
+particle physics;experimental physics;protons;baryons
+colonization;native americans;16th century;proof
+iphone;windows taskbar
+warcraft DIGIT frozen throne
+pruning;roses
+google play store;google account
+macos;snow leopard;trash
+ipod touch
+food safety;meat;vegetables;cutting boards
+visas;usa;uk citizens;esta;short notice
+faa regulations;faa;easa regulations;modifications;stc
+meteorite
+texas hold em;rules;reading hands
+heating;energy efficiency
+neural networks;human like;human inspired
+applications;htc desire;voice command;voice recognition
+organic chemistry;synthesis;alcohols;amines
+vegetables;harvesting;brassicas;cabbage
+babysitting
+the moon;crewed spaceflight
+legal;taxes;international;italy
+webgl
+work environment;saying no
+physical chemistry;thermodynamics;heat
+united states;driving;speeding
+international;copyright
+workout
+dark matter
+nietzsche
+acid base;analytical chemistry
+workout routines
+emergency;aircraft performance;multi engine;aircraft failure
+terminology;australia
+web application;http;configuration
+logical deduction;logic grid
+opening;queens gambit;queens gambit accepted
+mobile robot;robotic arm
+eye;lifestyle;vision
+ursula le guin;the earthsea cycle
+holdem manager
+unions;post production;production mixing;professional societies
+health;safety
+aircraft design;throttle
+copyright
+cats;chewing
+computer architecture;cpu pipelines
+substitutions;fish;asian cuisine
+behavior;cats
+iphone;google calendar
+data structures;hash tables
+mathematical economics
+rasterizer;shading
+incident response;ethics
+security;fraud
+analytical chemistry;history of chemistry
+probe;comet;esa;giotto
+political system
+measurements;tools
+legal;mobile apps;intellectual property;copyright
+logic;ethics
+iphone;battery
+reliability
+fuel;aircraft systems;preflight
+neural networks
+radio
+macroeconomics;econometrics
+starcraft DIGIT
+meteorology;temperature;database;validation
+rendering
+neural networks;gofai;logic;thought vectors
+xbox DIGIT;lips
+reading order;dan brown
+etymology;sound change
+image processing
+the simpsons
+nutrition;diet;digestion
+endgame;castling;famous moves;famous games
+sample rate;192khz;processing;recording
+philosophy of language;wittgenstein
+vinegar;salad;salad dressing
+probability;dice
+memory;mnemonics
+intelligence testing
+weightlifting;injury;wrist;workout types
+planning;websites;text analysis
+corporate policy;privacy
+poetry;style;t s eliot;ted hughes
+history
+piano;notation
+history of philosophy;good and evil
+algorithms;data structures;heaps
+ancient history
+arduino;ros;quadcopter
+references
+electric guitar;electronics;pick ups
+citations
+starcraft DIGIT;achievements
+genetics;genomics;gwas
+conversations;awkward situations
+np complete
+meteorology;barometric pressure
+econometrics;rims ii
+shader;webgl;vertex buffer object
+equipment recommendation;canon g11
+20th century;war;economy
+human like
+xbox DIGIT;controllers
+eye;seizure
+the lord of the rings;tolkiens legendarium
+philosophy of language;terminology
+rules;tennis;atp
+logical deduction;geometry;dissection
+cats;training
+equipment;disc golf
+united states;20th century;labour history
+macos;virtualization;vmware
+weight loss;bicycling
+oceanography;mountains;sea level
+analysis;manifolds
+canon 450d
+nutrition;diet
+loudspeakers;speakers;frequency response
+storage method;storage lifetime;vinegar
+dna;bioinformatics;biotechnology
+logic
+3d;algorithm;image processing
+strength;workout routines;flexibility;tips;exercise ball
+opening;bullet chess
+viewfinder;lcd;resolution;panasonic lumix
+fantasy;structure;plot
+development
+europe;international travel;israel;overland;routes
+calendar;jorte
+theravada;modern world
+running
+copyright
+general relativity;mathematical physics;quantum gravity;black holes;hawking radiation
+flight planning;international;oceanic
+doubletwist;headphone jack
+sleep transition;sleep
+film techniques
+statistics;heads up
+behavior;pond;turtles
+reading hands
+rules;football
+style;technical writing;resources;time depiction
+dogs;behavior;fear
+climbing;top roping
+quote identification;edmund wilson
+media
+bond;electrons;polarity
+interviewing;hiring process;job search
+differential equations
+riddle
+marketing;sales;seasonal
+legal;travel
+management;communication;work experience
+modeling;causality
+dwarf fortress
+salary
+xbox DIGIT
+democracy;campaigning;liberalism;grassroots
+materials;optical properties
+copyright;fair use
+electronic devices
+youtube
+correlation
+diagnosis;leaves;oak
+identify this movie;dialogue
+running;weightlifting;cardio;weights
+behavior;discipline
+intelligence testing;software evaluation;turing test;natural language
+time management;projects;procrastination
+infant;newborn;hygiene
+iss;end of life
+canon;canon 50d
+group theory;abstract algebra
+metaphysics;kant;hume;skepticism
+currency
+soft question;quantum information;topological order;category theory
+macroeconomics;monetary policy
+macbook;battery
+currency;purchasing power partity;exchange rates
+nutrition;fiber;protein shakes
+star trek;time travel;star trek enterprise;federation;star trek eu
+vector graphics;artifacts
+opengl;pixel graphics
+rebus
+algorithm
+backtesting;fixed income
+convexity;collateral
+material
+camping;bulgaria;macedonia;southeast europe;balkans
+nose
+opening;engines;scandinavian defense
+united states;canada;england and wales
+composition;professional associations
+running;technique
+quantum mechanics;quantum information;quantum entanglement;faster than light;causality
+no limit;mtt
+form;performance
+equipment;olympics;participation
+DIGIT froyo;samsung galaxy apollo
+heating
+resume;job search;applications;cover letter;relocation
+opening;queens;strategy
+sight reading;digital piano
+research
+mathematics;magic square
+infant;safety
+gps;offline;maps
+field;stealth;recording;recommendations
+fish;aquarium;betta;community aquarium;tetra
+education;music
+tuna
+email;mobileme;idisk
+computational linguistics;nlp;parsing;computer science
+united states
+control problem;superintelligence;ai takeover;self replication;universal constructor
+keyboard;applescript
+track and field;international sports
+baking;cake;sponge cake
+mahayana;bodhisattva;shingon
+usb;webcam
+cricket;terminology;technique;spin
+harvesting;broccoli;variety selection
+opengl;image processing;vector graphics
+scratching;effects
+hygiene;acne
+legal;countries
+product;resources
+dialogue;indiana jones;the kingdom of the crystal skull
+fireworks
+passwords;entropy
+hegel;marx;dialectic
+opening;sicilian defense;gambits;smith morra gambit
+network;wifi
+logical deduction;geometry
+sound effects recording;mid side;microphone technique
+theory
+humane society;fundraising
+dogs;leash training
+13th century;mongol empire
+plato;fallacies
+cost;cost to orbit
+ice;ice axes;crampons;self arrest;rescue
+molecular biology;dna;synthetic biology;gene synthesis
+guitar;chords;notation
+estimation;efficiency
+dexter
+launch;spacex;engine design;raptor
+career;cva;banks
+software
+opening;strategy;attack;defense
+language change;sign languages
+orbital mechanics;trajectory;deep space
+value;shrinking money supply
+enlightenment;zen;sects;buddha nature
+physical chemistry;water
+max msp;msp;arduino
+market data
+neural networks;philosophy;agi
+virtual reality
+money;customs and immigration;india;legal
+software;sales;product
+product market fit;social entrepreneurship
+theravada;history;meditation breath;anapanasati
+identify this tv show
+business plan;website;advertising
+jhana;meditation concentration
+hiking
+opening
+stochastic processes
+structural formula
+planetary science;atmosphere;gas giant;physics;thermodynamics
+mathematics
+pain;medical device
+story identification;books;young adult
+electromagnetism;plasma physics
+tradehill
+logical deduction;calculation puzzle;geometry
+photo editing;android;software recommendation
+united states;gambling;insurance
+post processing;unsharp mask;sharpening
+classical mechanics;rigid body dynamics
+nlhe;heads up;pre flop;range
+seed saving;holiday cactus
+dna sequencing;metabolism
+industrial organisation;academic graduate
+shader
+phonology;terminology;ipa;transcription;phonetic symbols
+texas hold em;reading hands
+riddle
+plot explanation;analysis;inception
+vipassana;samatha
+real estate;philippines
+safety;passenger;airliner;ditching
+energy;pollution
+liquid
+dna sequencing;meiosis;protocol
+hygiene;cleaning
+tours;guides;vietnam;hanoi
+set theory
+exposure;point and shoot
+logic;reference request;philosophy of mathematics
+colleagues
+pain;cause and effect
+farming;gmo
+known vulnerabilities
+bioinformatics;homework
+appsec;web application;web browser;xss;javascript
+game theory;nash equilibrium;cooperative game theory
+orbital mechanics;rockets;kerbal space program
+teaching;references
+george orwell;animal farm;censorship
+caffeine;drug metabolism;memory
+graph theory;proof techniques
+cosmology;spacetime;mass;black holes
+microeconomics;supply and demand
+global illumination
+united states;court records
+learning;software;evaluation
+plot;structure
+foley;recording;microphone
+canon;cleaning;viewfinder
+strong ai;software architecture;game ai
+search and seizure;fourth amendment;perimeter search
+cats;psychology
+resources;tools;software
+technical writing;marketing
+aircraft design;helicopter;rotorcraft;quadcopter
+classification;dataset;multivariable
+rendering;raytracing;physically based;normal mapping;ray
+safety;israel;palestine
+diet;lasting effects duration;measurement;calories
+calculation puzzle
+china;russia;cold war
+epistemology;history of philosophy;hegel
+theory;scales;composition;key;atonal
+nomenclature
+terminology;software
+united states;taxes;business model
+battery life
+mods;fallout;fallout DIGIT
+appsec;web application;authentication;federation;openid
+biochemistry;redox
+online resources;awards
+international economics
+blood tests;endocrinology;practice of medicine;testosterone
+ipod touch
+sequences and series;fractals
+building materials
+viewpoint
+hacking;austria
+feeding;horses
+character analysis;mark twain;adventures of tom sawyer
+development;speech
+20th century;world war two;russia;japan
+ps3;ps1
+war;weapons;aircraft
+cold weather;hypothermia
+california;homicide
+motor;electronics;h bridge
+htc desire hd;vanilla ui
+crushing;shredding;waste disposal
+security;wallet;encryption
+dogs;health;safety;medicines
+iphone;email
+medications;practice of medicine
+material science;geometry;continuum mechanics
+style
+engines;booster;soyuz launcher
+speech recognition
+guitar;lessons
+modeling
+boeing DIGIT;winglets
+salt;soy
+classical mechanics
+applying
+discipline;distraction
+diet;fish;aquarium;saltwater;brineshrimp
+fuel efficiency;biofuels
+sfx
+equipment recommendation;web;reviews
+geometry;motion
+privacy;arrest
+everyday chemistry;aqueous solution;surfactants
+reaction mechanism
+marvel cinematic universe;the avengers
+mathematical economics;reference request;social welfare;social choice
+color;compression
+australia;fraud;forgery
+texture;3d;mesh
+coffee
+energy;mass;symmetry;conservation laws;noethers theorem
+company of heroes
+toddler;discipline
+macbook;microphone;ear phones
+logic
+guitar effects
+optics
+vegetables;chili;seeds;germination;habaneros
+home;building materials;housing
+quote identification
+lens;depth of field;terminology
+football;finances;transfer
+machine learning
+pca;intuition;eigenvalues
+mechanical engineering;linkage
+flowering;lilac
+music;persona;business history
+hiking;navigation;compasses
+plug in;organic;design;effects
+cleaning;cloth diaper
+natural language processing;history
+algebra precalculus
+books;suggested order;warhammer40k
+best practices
+geography;knowledge
+epidemiology;cancer
+corpora;online resources;frequency;resource request
+workout;cool down
+vulkan
+equipment recommendation;geotagging;gps
+running
+computational geometry
+goats
+software;windows
+prologues;legal
+poetry;meaning;sandra cisneros
+string theory
+gtd;evernote
+electricity
+aerodynamics;glider
+people management
+equipment recommendation;color management;colorimeter
+salary;united kingdom
+infant;sleep;newborn
+ps3;technical issues;hard drive
+iss;flight computer;maintenance
+starcraft
+post processing;product photography;image manipulation;glare
+vermicomposting
+z buffer
+camping;survival;winter
+mac;pc;omf;file;transfer
+united states;us constitution;us supreme court
+group theory
+ferrets;united states
+sensor;optics
+brass;instrument range
+hiking;emergencies;snakes
+united kingdom;restaurants
+abstract algebra;algorithms
+big list;calculus;analysis
+the elder scrolls DIGIT oblivion
+conflict aversion;family;children;marriage;lgbt+
+japan;discrimination
+epistolary novel;samuel richardson;pamela
+career development;training
+magic trackpad;magic mouse
+infant;health;breastfeeding
+electricity;ecological footprint
+formal languages;formal grammars;parsing
+interviewing;email
+definitions;income
+lighting
+abstract algebra;ring theory
+comics;league of extraordinary gentlemen
+legal;factoids;weddings
+data request
+script;chargeback
+pro tools;error
+hardware
+tactics;training
+gtd;tracking
+diablominer;gpu mining
+pattern;knowledge
+poker theory
+medications;side effects;endocrinology
+formatting;book
+audit;email
+survival;food;emergencies;plants;edible
+philosophy of mathematics
+word choice
+worldizing;gear;convolution;impulse response
+composting;construction;toilet;law
+toddler
+physiology;microbiology;microbiome
+united states;law;united kingdom;india;military law
+tournament;betting strategy
+election;india
+development;exchanges
+transformations;computational geometry
+definitions
+food;winter
+contemporary history
+baking;muffins
+free will
+united states;contract;legal terms
+structural engineering;beam
+airline operations;passenger;airliner
+logical deduction
+raytracing;c++;optimisation;data structure
+DIGIT gingerbread
+hand
+india;property
+league of legends
+weapons;sword
+cell culture
+h p lovecraft
+pruning;raspberries;boysenberries
+wi fi;sync;motorola droid;file management
+thailand;food and drink
+primary schooler;video games
+motivation;goals
+trivia;nfl;draft
+computational chemistry
+time series;change point
+word choice
+technology;native americans;metallurgy
+ethics;right livelihood;monasticism;laity
+character;james bond;moonraker;the spy who loved me
+iphone;itunes
+corporations;electorate
+texas hold em;nlhe;pre flop;short stack
+texas hold em;poker theory;learning;books;gaming theory
+flash;shooting technique;red eye
+jailbreak;ios;iphone
+surfing
+opengl es
+recycling;plastic
+live;showdown
+introverts;online interaction
+vector graphics
+ios;multitasking
+sleep;pre schooler;teeth
+epistemology;philosophy of science;philosophy of mind;socrates
+ocean;planetary science
+volatility;forecasting;variance
+dermatology;micronutrients
+transportation;health;insurance
+league of legends
+karma;right livelihood
+famous players
+authentication;cryptography;public key infrastructure;digital signature;non repudiation
+fallout DIGIT
+correlation
+health;eating;food;baby led weaning
+infant;behavior;pacifier;mouthing;thumb sucking
+soup;noodles
+appsec;web application;brute force;countermeasure
+ions;redox;equilibrium
+data request;markets
+japan;photography
+mobile apps;ab testing
+tech company;idea
+technique;percussion;timpani
+software;pages
+ideology;direct action
+algorithms;data mining
+mechanical engineering;airflow
+united states;guns
+equities;beta;capm
+pid
+social ethics;rights;animal welfare;environmental philosophy
+infant;bathing
+legal writing
+soft question
+faa regulations;airman certification;checkride
+nutrition
+digital;composition;rotation
+united states;constitution;slavery
+airspace;transponder;altimeter
+vegetables
+christianity;catholic church
+character;the simpsons
+organic chemistry;identification
+game ai
+cowboy bebop
+historical linguistics;orthography;sound change;italian
+euclidean geometry
+vision;ophthalmology;visual acuity;angular spatial resoluton
+l frank baum;oz
+arduino;microcontroller
+logic;epistemology;truth
+riddle;word;rhyme
+iphone
+transaction fees;transaction selection;coin age priority
+symbolism;mark twain;puddnhead wilson
+isaac asimov
+piano;notation;sheet music;articulation
+plot explanation;analysis;dialogue;chinatown
+gpu
+toddler;play
+mountains;rainfall
+formal languages;parsers;regular expressions;pushdown automata
+diet;paleo diet;atkins
+scalability;transaction capacity;visa
+human biology;neuroscience;hearing
+geoffrey chaucer;the canterbury tales
+star trek
+materials;metals;welding
+reaction mechanism;synthesis;surface chemistry;catalysis;green chemistry
+metaphysics;plato
+particle physics;popular science;weak interaction
+trumpet;instruments
+american options
+knives;coconut;bones;chopping
+theater
+machine learning
+inorganic chemistry;purification
+tech company;growth;hiring;remote
+complexity theory;regular languages;space complexity;lower bounds
+middle ages;cultural history;italy
+nutrition;mold
+game of thrones;a song of ice and fire;inspiration
+runescape
+sync
+recycling;paper
+analysis;where the wild things are
+cricket;tournaments
+machine learning;bayesian;references
+united states;economy;cold war
+models;reference request
+identify this tv show;comedy
+macroeconomics;microeconomics;mathematical economics;soft question
+sensors;design;airflow;turbines;systems engineering
+space station;artificial gravity
+style;medium
+philosophy;terminology
+language change;evolution
+economic growth
+safety;wild camping;boars
+organic chemistry;everyday chemistry
+united states;budget;government shutdown;legislative process;loss of supply
+etiquette;otb chess
+diagnosis;roses
+macroeconomics;data request
+itunes;bootcamp
+number theory;diophantine equations
+behavior;fish;aquarium;freshwater;aggression
+solar sail
+professionalism;interviewing;job search
+network;web application;authentication
+game of thrones;a song of ice and fire
+running;racewalking
+logic
+cats;behavior;socializing
+legal;co founder
+foraging
+corpora
+infant;behavior
+econometrics;general equilibrium;empirical methods
+ipod touch;keyboard;bluetooth
+biochemistry;dna;senescence;chemical communication
+big list;set theory;category theory
+organic chemistry;carbonyl compounds
+marketing;equity;lean startup;finance
+faa regulations
+mechanical engineering;control engineering
+astrophysics;cosmology
+soft question;terminology;pde
+mathematical economics
+bathing;fears
+lean startup;target market;saas
+structural engineering;beam
+probe;voyager;solar system
+time management;focus;study
+water management;water conservation;water footprint
+game theory;social welfare
+geometry;pattern;tiling
+factor analysis;independence
+macroeconomics;economic growth;business cycles
+formal languages;regular languages;context free
+mean;robust;truncation;trimmed mean
+lighting;lighting modifiers;beauty dish
+flash;studio lighting;uv
+20th century;world war one;middle east;treaties
+ai design;ai community
+iss;crewed spaceflight;docking;soyuz spacecraft;procedure
+nikon;nikon d40;filenames
+guitar;technique;amplifiers
+calls;htc desire z
+budget;hostels;vancouver;local knowledge
+mars;rovers;curiosity;environment;dust
+learning;theremin
+cats;training;toys;play
+econometrics;gdp
+jhana;meditation concentration
+international relations;president;financing
+religion;science
+acid base;experimental chemistry;ph
+organization;learning;knowledge management
+world war two;aircraft;dday
+shader;brdf
+food and drink;recommendations;restaurants;amsterdam;socializing
+strategy
+riddle
+slavery;etymology;caribbean
+horror;comedy;evil dead
+food;tips;health;water;fruit
+united kingdom;political history;palestine
+client;blockchain;development;protocol;raw data
+philosophy;learning;atheism
+compost
+algorithms;complexity theory;linear algebra
+nasa;space shuttle;spacecraft development;space program
+solar power;light
+sequences and series;binomial coefficients
+portfolio management;optimization;modern portfolio theory;mean variance;bootstrapping
+hypothetical;meteorite;magmatism
+ai basics;getting started
+visas;online resources;international travel
+philosophy of science;physicalism;materialism
+cryptography;passwords;hash;password management;salt
+star wars
+diet;weight loss;calories;food;sugar
+education
+seasoning;citrus;oranges
+supplements
+mars;rovers;curiosity;photography
+google maps;DIGIT gingerbread;samsung nexus s
+allergy
+mac
+economy;exchanges;mtgox
+geophysics;geology
+texas hold em;rules;reading hands;wsop
+quantum chromodynamics
+design;underwater;auv
+chickens
+xbox DIGIT
+weightlifting;recovery
+the buddha;pali canon;reference request
+battlefield bad company DIGIT
+geometry;animation
+DIGIT froyo;home screen shortcuts;launcherpro
+united states;california;residential lease;real estate
+pro tools;strip silence
+style
+chicken;frying;spices
+optometry;iris
+audio;automator;microphone
+avionics;gps
+ontology;terminology
+solar power
+poetry;metaphor
+history;international sports
+hitler;political history;nazism
+marketing;mobile apps;app store optimization
+vantage points;photography;boston
+keyboard;spell check
+territory
+philosophy of science
+publishing;non fiction
+standard error
+macroeconomics;labor economics;economic terms
+macroeconomics;labor economics;empirical methods
+magic;languages;christopher paolini;inheritance cycle
+water purification;drinking water
+energy;electricity
+emergency;cabin pressure
+rules;formula DIGIT
+algorithm
+karma
+casino;rake
+computational linguistics;word order;machine translation
+metaphysics;applied philosophy
+infant
+organic chemistry;water;halides;solvents;reaction control
+poetry;edgar guest
+currencies
+bayesian;references
+kimchi;korean cuisine
+microeconomics;elasticity
+agatha christie;hercule poirot
+finances;olympics
+hematology
+computational linguistics;nlp
+pre schooler;psychology;working parents;mental health
+microeconomics;production function
+human biology;neuroscience
+pc;pro evolution soccer DIGIT
+logical deduction;mathematics
+opening
+network;hashpower
+human biology;chromosome
+patent
+root access;terminal
+quantum computing
+transportation;russia;mongolia;ulan bator;irkutsk
+molecular genetics;reproduction;human genetics;cytogenetics
+electric guitar;technique
+wave editor;post production
+trivia;swimming
+entomology;muscles;growth
+imaging
+star trek;star trek tng;borg
+recycling;grocery;bags
+comparative linguistics;vocabulary;proto indo european
+quantum mechanics;quantum entanglement
+options
+movie;minority report;extrasensory perception
+gallbladder
+culinary uses;roux
+united kingdom;finance
+websites;job listing
+inspiration;terry pratchett
+bioinformatics;homework;dna sequencing;blast
+untagged
+tools;software;screenwriting
+classical period;electric guitar
+baking;roasting
+mechanical engineering;gears
+dogs;breeding;adoption;purebred;united states
+webgl;vertex buffer object;gltf;buffers
+attacks;incident response
+lawn;moss
+macos;pages
+customs and immigration;passports;australian citizens;eu citizens;dual nationality
+measurements;remote sensing;lightning
+water;recycling
+rules;checkmate;draw
+software;photoshop
+romania;transportation
+recycling;plastic;bags
+r;splus
+texas hold em
+launch;soyuz spacecraft;flight computer
+resources;book
+infant;formula;weaning
+asteroid;imaging;radio telescope
+resume;cover letter
+maintenance;electric bass guitar;action
+learning;flute
+air travel;luggage;airport security;electronic items
+rules
+mass;standard model;quarks;protons
+development;protocol;script
+antialiasing;pixel graphics;line drawing
+ethics;sociology
+protein shakes
+chess algorithms
+macroeconomics;keynesian economics
+opengl;texture;glsl;shading;material
+iss;operations;supply
+formula DIGIT;auto racing
+computer architecture;simulation
+conversations;iran
+work environment
+game theory
+opengl;gpu;rasterizer
+computability;asymptotics
+lens;canon 550d
+voting systems
+solar power
+recycling
+abstract algebra
+character;the dark knight rises;batman begins
+rabbits;breeding
+texas hold em;odds
+philosophy of science
+options;volatility;implied volatility;volatiliy smile
+electromagnetic radiation
+sales;financing
+beginner
+application
+ancient history;ancient egypt
+macroeconomics;monetary policy
+transactions;client;privacy
+cross linguistic;reference request;vocabulary;kinship terms
+baking;flour;measurements;conversion
+cookbook
+new york;police;trespass
+cryptography;known vulnerabilities
+macroeconomics;data request;financial economics
+theravada;modern world;eight precepts
+ice hockey;nhl;ranking
+linguistic typology;principles and parameters;copula
+attack prevention;research;business risk
+energy efficiency;heating
+inorganic chemistry;toxicity
+job change;job offer
+logic;ethics;political philosophy;argumentation;democracy
+client;protocol;bitcoin core;tcp
+aquaponics;diy;building materials
+short stories;meaning;o henry
+baking;flour;comparisons;shopping;pantry
+toddler;infant;pre schooler;play time
+aircraft design;landing gear
+the buddha;science;teaching;realms
+20th century;united states
+terrorism;military;propaganda
+cipher;visual
+negotiation;united states
+hiking;women
+nirvana
+style
+nuendo
+toddler;hygiene;brushing teeth
+facebook;mafia wars
+technique;focus;manual focus
+lens;macro;canon 450d
+notation;pgn
+composting;vermicomposting
+correlation;mutual information
+india
+puzzle history;jigsaw puzzle
+waste
+knots;diy;hammock
+iphone;ipad;itunes
+design
+character analysis;j k rowling;harry potter
+recycling;reuse;disposal
+texas hold em
+activities;geek travel;las vegas
+pca;factor analysis;factor rotation
+google play store
+option pricing;basket
+control;quadcopter;radio control
+en passant
+reincarnation
+ear training;intervals
+rules
+experience;media;perception
+solar power
+ethics;terminology;debate;rhetoric
+style;technical writing
+toddler;infant;teaching
+google play store;google maps;offline map
+backtesting;spread
+operating systems;linux;hardening;desktop
+iss;communication;russia
+mathematics
+sd card
+vegetables;diagnosis;jalapenos
+DIGIT froyo;languages;hebrew
+economy;trade
+food safety;storage method;storage lifetime;cubes;bouillon
+lens;focus;autofocus;manual focus
+generative grammar
+united kingdom;employment
+food;carbon footprint;farming
+theory;knights;mathematics
+opening
+time capsule;sharing
+transactions;block;charts
+riddle;word problem;word
+optimality theory
+australia;constitutional monarchy;canada;commonwealth
+mental health
+computability
+raised beds
+fruit trees;diagnosis;tree care;nutrients;citrus
+government debt
+post production
+high frequency;software;hardware
+surgery;throat;chemotherapy;metastatic cancer
+george orwell;nineteen eighty four
+macos;settings;desktop;3rd party;themes
+website;launch
+cars;disability;service personnel
+macos;keyboard;system prefs;activity monitor
+awkward situations;boundaries;public transportation
+licensing
+life
+ring theory;abstract algebra
+applications
+electrochemistry;electronic configuration;electron affinity
+toddler;breastfeeding
+particle physics;experimental physics;quarks
+united states;healthcare
+eggs;pasta;egg whites
+meditation recommendation;psychic powers
+opengl;shader;glsl
+rules;cricket;statistics;interruption
+correlation;regression
+riddle
+climbing;mountaineering;himalaya
+military;naval;tactics;age of sail
+tech company;hiring
+water
+breastfeeding;feeding;working parents;books
+equipment
+raytracing
+exercise
+genetic algorithms;genetic programming
+tree care;diseases;maple
+voice
+attack prevention;web browser;http
+espionage
+mechanical engineering;gears
+plot;short story;planning;brainstorming
+ssh;hardening
+nikon;equipment recommendation;dslr
+barbecue;camping;propane grill
+history;block interval
+homework;reproduction;development
+online chess;fide
+control engineering;control theory
+chord progressions
+sleep
+contacts;widgets;skype;home screen shortcuts
+survival;snow;shelter
+version differences;lego indiana jones;lego indiana jones DIGIT
+pc;source engine
+beef;steak
+italian cuisine;tomatoes
+puzzle quest
+copyright
+betting strategy;probability
+design
+election;denmark
+eye
+rabbits;desexing
+real estate;legal history
+phase;elements;periodic table
+llc
+cats;desexing
+vaccination;influenza
+infection;inflammation
+camping;safety;bears
+field recording;location recording;accessories;microphone;sd
+solar power;photovoltaics
+raw;photoshop
+uav
+ontology;continental philosophy;heidegger;derrida;deconstruction
+marketing;business model;growth;target market;lean startup
+regression;spss;categorical data;continuous data
+legal
+mechanical engineering;thermodynamics;chemical engineering;heat transfer;combustion
+group theory
+feeding;frogs;amphibians
+gullivers travels;jonathan swift
+quadcopter
+customer development;customer service
+toddler;sleep;daily routine
+ontology;philosophy of mathematics;philosophy of language
+hardware
+notation;super grandmaster
+canon;troubleshooting;error;powershot
+world war two
+service;business proposal
+american football;nfl
+focal length;crop factor;field of view;sensor size
+password
+texas hold em
+fantasy;philosophy
+motor;servomotor
+ios;japanese
+equipment;meat;sausages
+united states;police
+neuroscience;biophysics;electrophysiology
+webgl;data structure;vertex buffer object;gltf
+united states;president;pardon
+analysis;quentin tarantino;film techniques;kill bill
+money
+canada;camping;outdoor activities;toronto;ontario
+formal languages;automata
+software
+development;daycare
+steel;metallurgy;bolting
+identify this movie
+cats;grooming;shedding
+chemical engineering;control engineering;process engineering;temperature
+homework;equilibrium
+entrepreneurship
+time travel;futurama
+inorganic chemistry;experimental chemistry;analytical chemistry
+kokopellis flute;will hobbs
+astrophysics;classical mechanics;space;sun
+digital;workshops
+germination;spruces
+ancient egypt;pyramids;slavery
+ultraintelligent machine
+condensed matter
+counter strike source;recording
+r
+consciousness
+plot explanation;constantine
+guitar;physiology
+intellectual property;software;copyright
+alternatives;consumption;degrowth;academia
+colonization;asteroid;habitat;reference request
+paleontology
+camping;united states
+british empire
+macroeconomics;financial economics
+aquarium;substrate
+online resources;airports;wifi;internet
+india;colonization
+human biology
+macos;keyboard;terminal
+peer discovery
+r;time series;references;state space models
+philosophy of science;metaphysics;sociology
+gdp
+texas hold em;odds;statistics
+nxt;programming languages;mindstorms
+options;liquidity
+equity;founder
+lens;dslr;wavelength;chromatic aberration
+heart disease;angiography;cabg coronary art bypass
+screenwriting;pacing
+mechanical engineering;steam;piping
+terminology;grammaticality
+econometrics;mathematical economics;monetary policy;interest rate
+digestive system
+filters;exposure;neutral density
+emulation;amiga
+deep learning;deep network;cognitive science;superintelligence
+audio interfaces;pre amp
+world championship
+plastic;non bio degradable
+molecular biology
+infant;behavior;food
+mahayana;nirvana
+machine learning;recurrent neural networks
+baseball;history
+irobot create
+acid base;nomenclature
+equity;finance;stock options;employee compensation
+20th century;cultural history;popular culture
+fluid dynamics;pressure;water;hydrostatics
+first appearance;dialogue
+work environment;politeness;united arab emirates;sharing
+interviewing;resume;cover letter;networking
+united states;law
+relationships;friendship
+fiction;book rec
+mars;camera;remote sensing;mapping;topography
+iphone;bluetooth
+reference request;political philosophy
+compensation
+evolution;theoretical biology;sexual selection;palaeontology;extinction
+rubiks cube;minimum solve;solvability
+composting
+stargate
+story identification
+trails;maintenance
+steam
+enlightenment;truth
+post processing
+morphology;latin;romance languages;italian;participles
+linear algebra;eigenvalues eigenvectors;intuition
+nutrition
+diagnosis;identification;houseplants
+mathematics;lateral thinking
+opengl;glsl
+bluetooth;battery life
+security;wallet;mining pools;data security;linode
+cipher;encoded message
+freezing;beer;beverages
+betting;legal issues
+bomber;aircraft identification
+creativity
+poker theory
+regression;multiple regression;terminology;multivariate regression
+boltzmann machine
+running;exercise;cardio
+nuts
+hiking;mountaineering;navigation
+risk;futures;commodities
+global warming
+communication;email
+tools;shorthand;note taking
+multitasking
+exercise equipment;app
+weightlifting;plateau
+william shakespeare;scansion
+geolocation;photos
+meteorology;humidity
+microeconomics;choice theory
+zoology;evolution;palaeontology
+public transport;uk;overland;uae
+united nations
+brain training;brain
+sequences and series;contest math
+movie;neil gaiman;american gods
+dna;epigenetics;transcription
+electromagnetic radiation;energy conservation;visible light;biophysics
+toddler;growth
+running;exercise technique
+poker tools;holdem manager;hud
+opening;french defense;attack
+reptiles;bathing;tortoises
+automated trading;backtesting;simulations;implementation shortfall;transaction costs
+bitcoin core
+plot explanation;hellraiser
+communication;transportation
+dealing;open face chinese
+modules;graded modules;graded rings
+cosmology;spacetime;big bang;popular science
+mesh;polygon;data structure;scene graph
+airport;cost
+play
+filters;rangefinder
+steam;achievements;left DIGIT dead DIGIT
+options;option pricing;market;market making;prediction
+new job;job offer
+mixed model;random effects model;definition;fixed effects model
+planetary science;gas giant;saturn;rings
+formal grammars;parsers;left recursion
+ions
+suggested order;discworld;terry pratchett
+space shuttle;thermal
+peppers;germination
+acid base;water;ph
+rules;squash
+fuel;jet engine
+united states;socializing;marriage
+kalman filter;ekf
+resources;presentation
+flight instruments;navigation;magnetic variation;heading
+linux;wifi;webserver;known vulnerabilities
+all in
+research
+ocean;waves;ocean currents;tides
+mesh
+marketing;mobile apps;seasonal
+gear;survival;emergencies
+middle ages;catholic church;inquisition
+design;optics;computer engineering
+natural language processing;learning algorithms;intelligent agent
+articles;definiteness
+health;rabbits;psychology
+organic chemistry;radicals;regioselectivity;c c addition
+ted chiang;story of your life
+references;fractal
+gtd;email;gmail;tickler file
+poetry;meaning;william blake
+hiring process
+atmosphere;climate change;co2;homework
+dna;replication
+rules;field hockey
+harry potter;magic;spells
+recycling
+iran
+daycare;working parents;childcare
+contract
+control;quadcopter;wireless
+work environment;work life balance
+networking;freelancing;email marketing
+waste;pollution
+terminology
+law;liability
+resources;citations;research;academic writing
+microbiology;bacteriology
+human biology;vision
+structural engineering;steel
+newborn
+ethics;philosophy of science;knowledge
+transactions;wallet;transaction fees
+encryption;mobile;hardware;macosx;data leakage
+temperature;superconductivity;lattice model
+geothermal heat;mantle
+edwin abbott abbott;flatland
+nagarjuna
+sound design;zombies;movies;video games
+runtime analysis;loops
+please remove this tag
+story identification;greek literature
+control
+toddler;language development;speech
+security;mining theory;block interval
+dogs;training
+stress;health
+risk;research;modeling;risk models;cva
+syntax;grammar
+microeconomics;utility
+diet;weight loss;eating habits;intermittent fasting
+geometry;sliding blocks
+physical chemistry;software
+blockchain;services
+alice in wonderland;inspiration;lewis carroll
+phonology;semivowels;diphthongs;glides
+network;nodes
+references
+electrical engineering;thermodynamics;heat transfer;optics;temperature
+meteorology;atmosphere;climate;models;weather forecasting
+breathing;oxygenation;overdose;iron supplements
+headphones;sennheiser;guide
+screenwriting;scriptwriting
+applied mechanics;simulation;ansys
+learning;voice;lessons
+appsec;encryption;mobile;php;android
+maintenance;acoustic guitar
+learning;strategy;etiquette;beginner
+defining sustainability
+technology;artificial satellite;tracking;stealth
+neural networks;comparison;backpropagation;evolutionary algorithms
+history of philosophy
+doctor who;tardis
+security;privacy;tools
+neural networks;ai design;prediction;hidden layers
+air traffic control;radio communications;phraseology
+texas hold em
+instrument flight rules;phraseology;clearance
+nutrition;workout
+romance;lgbt+
+research;ai community
+vegetables;pest control;pests;millipedes
+atmosphere;hypothetical;solar terrestrial physics;magnetosphere
+home;heating;water heating
+united states;technology;weapons;cold war;aircraft
+william shakespeare;the taming of the shrew
+cats
+geometry;euclidean geometry;circle
+pre schooler;add
+guitar;technique;exercises
+strategy;endgame;knights;bishops
+politeness;email;phone calls
+trumpet;vibrato
+toddler;development;movies
+logic
+human biology;pharmacology;senescence
+genetic algorithms;evolutionary algorithms;genetic programming
+raytracing;rasterizer;reflection
+intelligent agent;multi agent systems
+william shakespeare;macbeth
+lawn;fertilizer;grass;lawn repair;dandelions
+prevention;fleas;insecticides;insect repellents;lyme disease
+tolkiens legendarium;the hobbit
+software recommendation;disk space
+transport;carbon footprint
+inorganic chemistry;ions;crystal structure;ionic compounds
+certification;cissp
+opening;theory;gambits;kings gambit
+statistics;fide;world championship
+climate;antarctic;ice;thermodynamics
+morphology;linguistic typology;orthography;agglutination
+cryptography;encryption;wifi;cryptanalysis;protocols
+2d
+guitar;strings
+engines;calculation;ply
+flavor;salt;spices
+mathematics;geometry
+uncrewed spaceflight;experiment
+strategy
+super smash bros melee
+trudi canavan;black magician
+client;network
+anthony marra;constellation vital phen
+transformations;perspective;camera
+software;post processing;plugin
+shader
+neural networks;machine learning;deep learning;deep network;intelligent agent
+neural networks;tensorflow
+vegetables;harvesting;beans
+no arbitrage theory
+feeding;cats
+raspberry pi;irobot create
+united states;government;government shutdown
+food;sports;energy
+city of heroes
+standing
+sarcasm;irony;europe
+physical chemistry;theoretical chemistry
+character;the dark knight rises
+snow leopard;email;google notifier
+pot limit
+pollination;cultivar
+poetry;inspiration;myths;william butler yeats
+mountaineering;ice axes
+websites;correspondence chess
+neural networks;natural language processing
+mount and blade warband;mount and blade
+planetary science;geology
+plasmids
+indoors;houseplants;watering;drainage;ferns
+democracy;religion
+star trek;aliens
+pruning;tomatoes
+iphone
+germany;damages;disabilities
+reference request;philosophy of language;linguistics
+star wars;obi wan kenobi
+algorithms;optimization;bipartite matching;matching
+DIGIT eclair;htc sense;voice command
+safety;cockpit
+iphone
+quantitative easing
+etymology
+language change;orthography
+survey;software;communication
+football;tie breaker;euro
+old west;california
+algorithms;reference request;strings;string metrics
+family;india;substance abuse;intervention
+knives
+fish;aquarium
+belief;conversion
+websites
+piano;re recording;sound design
+analysis;donnie darko
+story identification;agatha christie
+technical writing;blog
+industrial organisation;oligopoly
+dermatology;side effects;cancer;breast
+deep learning;convolutional neural networks
+soft question;real analysis;terminology;functions
+learning;self learning
+mining pools;json rpc;mining software;getwork
+logic;philosophy of mathematics;terminology
+preservation
+meteorology;measurements;wind;pollution
+quantum physics;scientific method
+group theory;elementary number theory;congruences
+business plan;startup costs
+intellectual property;trademark
+opengl;c++;glsl
+iphone;ipad;ios;jailbreak;keyboard
+geometry
+lighting;directx11;hlsl
+climbing;diy;camming device
+proof of work;nonce;mining theory
+tasks;organization
+car rentals;buses;philippines
+operating systems;process scheduling
+football
+gtd;projects
+transactions
+united kingdom;contract law;employment;salary
