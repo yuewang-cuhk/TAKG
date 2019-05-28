@@ -7,7 +7,7 @@ Due to the copyright issue of TREC 2011 Twitter dataset, we only release the Wei
 
 ### Data format
 * The dataset is randomly splited into three segments (80% training, 10% validation, 10% testing).
-* For each segment (train/valid/test), we have the source posts (stored in `".\*_src.txt"`) and target keyphrases (stored in `".\*_trg.txt"`). One line is for each instance.
+* For each segment (train/valid/test), we have the source posts (stored in `".*_src.txt"`) and target keyphrases (stored in `".*_trg.txt"`). One line is for each instance.
 * For multiple keyphrases for one post, keyphrases are seperated by a semicolon `";"`.
 
 
@@ -16,6 +16,20 @@ Our model allows joint modeling of latent topics and keyphrase generation. It co
 ![alt text](https://github.com/yuewang-cuhk/TAKG/blob/master/model.PNG "The overall architecture")
 
 ## Code
+### Prepocessing
+To preprocess the source data, run:
+`python preprocess.py -data_dir ../data/Weibo`
+
+Some common arguments are listed below:
+```
+data_dir: The source file of the data
+vocab_size: Size of the source vocabulary
+bow_vocab: Size of the bow dictionary
+max_src_len: Max length of the source sequence
+max_trg_len: Max length of the target sequence
+```
+
+### Run Model
 TBA
 
 ## Citation
