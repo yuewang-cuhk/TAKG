@@ -1,5 +1,5 @@
 # TAKG
-The official implementation of ACL 2019 paper ["**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language" (**TAKG**)](https://arxiv.org/pdf/1906.03889.pdf).
+The official implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://arxiv.org/pdf/1906.03889.pdf)" (**TAKG**).
 This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/).
 
 ## Data
