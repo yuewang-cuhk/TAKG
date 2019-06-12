@@ -1,5 +1,5 @@
 # TAKG
-The official implementation of ACL 2019 paper "**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language" (**TAKG**).
+The official implementation of ACL 2019 paper ["**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language" (**TAKG**)](https://arxiv.org/pdf/1906.03889.pdf).
 This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/).
 
 ## Data
@@ -16,6 +16,8 @@ Our model allows joint modeling of latent topics and keyphrase generation. It co
 ![alt text](https://github.com/yuewang-cuhk/TAKG/blob/master/model.PNG "The overall architecture")
 
 ## Code
+This code is mainly adapted from [KenChan's keyphrase generation code](https://github.com/kenchan0226/keyphrase-generation-rl) and [Zengjichuan's TMN](https://github.com/zengjichuan/TMN).
+
 ### Prepocessing
 To preprocess the source data, run:
 `python preprocess.py -data_dir ../data/Weibo`
@@ -39,8 +41,8 @@ If you use either the code or data in your paper, please kindly star this repo a
   author    = {Yue Wang and
                Jing Li and
                Hou Pong Chan and
-               Michael R. Lyu and
-               Irwin King and               
+               Irwin King and
+               Michael R. Lyu and                              
                Shuming Shi},
   title     = {Topic-Aware Neural Keyphrase Generation for Social Media Language},
   booktitle = {Proceedings of ACL},
