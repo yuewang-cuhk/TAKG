@@ -57,7 +57,7 @@ add_two_loss: use the sum of two losses as the objective
 
 
 ### Inference
-To generate the prediction, run: `python predict.py -model [seq2seq model path] (-ntm_model [ntm model path]`).
+To generate the prediction, run: `python predict.py -model [seq2seq model path] (-ntm_model [ntm model path])`.
 
 It will output the prediction under the folder `pred`.
 
