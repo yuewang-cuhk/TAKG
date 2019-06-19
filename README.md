@@ -2,10 +2,14 @@
 The official implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://arxiv.org/pdf/1906.03889.pdf)" (**TAKG**).
 This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/).
 
-## Data
+## Dependencies
+* Python 3.5+
+* Pytorch 0.4
+
+## Dataset
 Due to the copyright issue of TREC 2011 Twitter dataset, we only release the Weibo dataset (in `data/Weibo`) and StackExchange dataset (in `data/StackExchange`). For more details about the Twitter dataset, please contact [Yue Wang](yuewang-cuhk.github.io) or [Jing Li](https://girlgunner.github.io/jingli/).
 
-### Data format
+### Dataset format
 * The dataset is randomly splited into three segments (80% training, 10% validation, 10% testing).
 * For each segment (train/valid/test), we have the source posts (stored in `".*_src.txt"`) and target keyphrases (stored in `".*_trg.txt"`). One line is for each instance.
 * For multiple keyphrases for one post, keyphrases are seperated by a semicolon `";"`.
