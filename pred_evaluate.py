@@ -717,8 +717,8 @@ def separate_present_absent_by_segmenter(keyphrase_token_2dlist, segmenter):
 
 
 def main(opt):
-    src_file_path = opt.src_file_path
-    trg_file_path = opt.trg_file_path
+    src_file_path = opt.src
+    trg_file_path = opt.trg
     pred_file_path = opt.pred
 
     if opt.export_filtered_pred:
