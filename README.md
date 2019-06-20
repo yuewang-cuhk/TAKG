@@ -2,9 +2,6 @@
 The official implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://arxiv.org/pdf/1906.03889.pdf)" (**TAKG**).
 This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/).
 
-## Dependencies
-* Python 3.5+
-* Pytorch 0.4
 
 ## Dataset
 Due to the copyright issue of TREC 2011 Twitter dataset, we only release the Weibo dataset (in `data/Weibo`) and StackExchange dataset (in `data/StackExchange`). For more details about the Twitter dataset, please contact [Yue Wang](yuewang-cuhk.github.io) or [Jing Li](https://girlgunner.github.io/jingli/).
@@ -23,6 +20,11 @@ Our model allows joint modeling of latent topics and keyphrase generation. It co
 Here we give some representative commands illustrating how to preprocess data, train, test, and evaluate our model. For more detailed configurations, please refer to `config.py`. In `train.py` and `predict.py`, I hard code some default arguments in the function `process_opt(opt)` to simplify each running command. We also provide our model's sample predictions for the three datasets in `my_sample_prediction`.
 
 This code is mainly adapted from [KenChan's keyphrase generation code](https://github.com/kenchan0226/keyphrase-generation-rl) and [Zengjichuan's TMN](https://github.com/zengjichuan/TMN). Thank my colleagues (Ken and Zeng) very much for their support.
+
+
+### Dependencies
+* Python 3.5+
+* Pytorch 0.4
 
 
 ### Prepocessing
