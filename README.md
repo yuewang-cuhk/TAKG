@@ -1,20 +1,40 @@
 # TAKG
 The official implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://arxiv.org/pdf/1906.03889.pdf)" (**TAKG**).
-This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/).
+This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/). Some scripts for drawing figures in the paper can be found [here](https://github.com/yuewang-cuhk/DrawFigureForPaper).
 
 
 ## Dataset
 Due to the copyright issue of TREC 2011 Twitter dataset, we only release the Weibo dataset (in `data/Weibo`) and StackExchange dataset (in `data/StackExchange`). For more details about the Twitter dataset, please contact [Yue Wang](https://yuewang-cuhk.github.io/) or [Jing Li](https://girlgunner.github.io/jingli/).
 
-### Dataset format
+### Data format
 * The dataset is randomly splited into three segments (80% training, 10% validation, 10% testing).
 * For each segment (train/valid/test), we have the source posts (stored in `".*_src.txt"`) and target keyphrases (stored in `".*_trg.txt"`). One line is for each instance.
 * For multiple keyphrases for one post, keyphrases are seperated by a semicolon `";"`.
 
+### Data statistics
+We first show the statistics of the source posts. (**KP** refers to keyphrase)
+
+Datasets | # of posts | Avg len of posts | # of KP per post | Source Vocabulary
+--- | --- | --- | --- | --- 
+Twitter | 44,113 | 19.52 | 1.13 | 34,010
+Weibo | 46,296 | 33.07 | 1.06 | 98,310
+StackExchange | 49,447 | 87.94 | 2.43 | 99,775
+
+We then show the detailed statistics of keyphrases:
+
+Datasets | Size of KP | Avg len of KP | % of absent KP | Target Vocabulary
+--- | --- | --- | --- | --- 
+Twitter | 4,347 | 1.92 | 71.35 | 4,171
+Weibo | 2,136 | 2.55 | 75.74 | 2,833
+StackExchange | 12,114 | 1.41 | 54.32 | 10,852
+
 
 ## Model
 Our model allows joint modeling of latent topics and keyphrase generation. It consists of a neural topic model to induce the latent topics and a neural seq2seq-based generation model to produce keyphrases. The overall architecture is depicted below:
-![alt text](https://github.com/yuewang-cuhk/TAKG/blob/master/model.PNG "The overall architecture")
+
+<p align="center">
+  <img src="https://github.com/yuewang-cuhk/TAKG/blob/master/model.PNG" alt="The overall architecture" width="600"/>
+</p>
 
 ## Code
 Here we give some representative commands illustrating how to preprocess data, train, test, and evaluate our model. For more detailed configurations, please refer to `config.py`. In `train.py` and `predict.py`, I hard code some default arguments in the function `process_opt(opt)` to simplify each running command. We also provide our model's sample predictions for the three datasets in `my_sample_prediction`.
