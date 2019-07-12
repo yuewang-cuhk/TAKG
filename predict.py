@@ -121,7 +121,6 @@ def predict(test_data_loader, model, ntm_model, opt):
                                   copy_attn=opt.copy_attention,
                                   coverage_attn=opt.coverage_attn,
                                   review_attn=opt.review_attn,
-                                  include_attn_dist=opt.include_attn_dist,
                                   length_penalty_factor=opt.length_penalty_factor,
                                   coverage_penalty_factor=opt.coverage_penalty_factor,
                                   length_penalty=opt.length_penalty,

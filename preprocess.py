@@ -218,7 +218,7 @@ if __name__ == "__main__":
     elif 'StackExchange' in opt.data_dir:
         opt.max_src_len = 150
 
-    data_fn = opt.data_dir.split('/')[-1] + '_s{}_t{}'.format(opt.max_src_len, opt.max_trg_len)
+    data_fn = opt.data_dir.rstrip('/').split('/')[-1] + '_s{}_t{}'.format(opt.max_src_len, opt.max_trg_len)
 
     opt.res_data_dir = "processed_data/%s" % data_fn
     if not os.path.exists(opt.res_data_dir):

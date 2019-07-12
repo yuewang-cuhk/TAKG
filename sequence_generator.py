@@ -14,6 +14,7 @@ from torch.nn import functional as F
 
 EPS = 1e-8
 
+
 class SequenceGenerator(object):
     """Class to generate sequences from an image-to-text model."""
 
@@ -30,7 +31,6 @@ class SequenceGenerator(object):
                  copy_attn=False,
                  coverage_attn=False,
                  review_attn=False,
-                 include_attn_dist=True,
                  length_penalty_factor=0.0,
                  coverage_penalty_factor=0.0,
                  length_penalty='avg',
@@ -48,7 +48,6 @@ class SequenceGenerator(object):
           beam_size: Beam size to use when generating sequences.
           max_sequence_length: The maximum sequence length before stopping the search.
           coverage_attn: use coverage attention or not
-          include_attn_dist: include the attention distribution in the sequence obj or not.
           length_normalization_factor: If != 0, a number x such that sequences are
             scored by logprob/length^x, rather than logprob. This changes the
             relative scores of sequences depending on their lengths. For example, if
@@ -68,11 +67,10 @@ class SequenceGenerator(object):
         self.length_penalty_factor = length_penalty_factor
         self.coverage_penalty_factor = coverage_penalty_factor
         self.coverage_attn = coverage_attn
-        self.include_attn_dist = include_attn_dist
-        #self.lambda_coverage = lambda_coverage
         self.coverage_penalty = coverage_penalty
         self.copy_attn = copy_attn
-        self.global_scorer = GNMTGlobalScorer(length_penalty_factor, coverage_penalty_factor, coverage_penalty, length_penalty)
+        self.global_scorer = GNMTGlobalScorer(length_penalty_factor, coverage_penalty_factor, coverage_penalty,
+                                              length_penalty)
         self.cuda = cuda
         self.review_attn = review_attn
         self.block_ngram_repeat = block_ngram_repeat
@@ -116,14 +114,16 @@ class SequenceGenerator(object):
         max_num_oov = max([len(oov) for oov in oov_lists])  # max number of oov for each batch
 
         # Init decoder state
-        decoder_init_state = self.model.init_decoder_state(encoder_final_state)  # [dec_layers, batch_size, decoder_size]
+        decoder_init_state = self.model.init_decoder_state(
+            encoder_final_state)  # [dec_layers, batch_size, decoder_size]
 
         # init initial_input to be BOS token
-        #decoder_init_input = src.new_ones((batch_size * beam_size, 1)) * self.bos_idx  # [batch_size*beam_size, 1]
+        # decoder_init_input = src.new_ones((batch_size * beam_size, 1)) * self.bos_idx  # [batch_size*beam_size, 1]
 
         if self.coverage_attn:  # init coverage
-            #coverage = torch.zeros_like(src, dtype=torch.float)  # [batch, src_len]
-            coverage = src.new_zeros((batch_size * beam_size, max_src_len), dtype=torch.float)  # [batch_size * beam_size, max_src_len]
+            # coverage = torch.zeros_like(src, dtype=torch.float)  # [batch, src_len]
+            coverage = src.new_zeros((batch_size * beam_size, max_src_len),
+                                     dtype=torch.float)  # [batch_size * beam_size, max_src_len]
         else:
             coverage = None
 
@@ -138,13 +138,18 @@ class SequenceGenerator(object):
         memory_bank = memory_bank.repeat(beam_size, 1, 1)  # [batch * beam_size, max_src_len, memory_bank_size]
         src_mask = src_mask.repeat(beam_size, 1)  # [batch * beam_size, src_seq_len]
         src_oov = src_oov.repeat(self.beam_size, 1)  # [batch * beam_size, src_seq_len]
-        decoder_state = decoder_init_state.repeat(1, self.beam_size, 1)  # [dec_layers, batch_size * beam_size, decoder_size]
+        decoder_state = decoder_init_state.repeat(1, self.beam_size,
+                                                  1)  # [dec_layers, batch_size * beam_size, decoder_size]
 
         # exclusion_list = ["<t>", "</t>", "."]
         exclusion_tokens = set([word2idx[t]
                                 for t in self.ignore_when_blocking])
 
-        beam_list = [Beam(beam_size, n_best=self.n_best, cuda=self.cuda, global_scorer=self.global_scorer, pad=self.pad_idx, eos=self.eos_idx, bos=self.bos_idx, max_eos_per_output_seq=max_eos_per_output_seq, block_ngram_repeat=self.block_ngram_repeat, exclusion_tokens=exclusion_tokens) for _ in range(batch_size)]
+        beam_list = [
+            Beam(beam_size, n_best=self.n_best, cuda=self.cuda, global_scorer=self.global_scorer, pad=self.pad_idx,
+                 eos=self.eos_idx, bos=self.bos_idx, max_eos_per_output_seq=max_eos_per_output_seq,
+                 block_ngram_repeat=self.block_ngram_repeat, exclusion_tokens=exclusion_tokens) for _ in
+            range(batch_size)]
 
         # Help functions for working with beams and batches
         def var(a):
@@ -166,7 +171,7 @@ class SequenceGenerator(object):
             # [batch_1_beam_1, batch_2_beam_1,..., batch_N_beam_1, batch_1_beam_2, ..., batch_N_beam_2, ...]
             # this match the dimension of hidden state
             decoder_input = var(torch.stack([b.get_current_tokens() for b in beam_list])
-                      .t().contiguous().view(-1))
+                                .t().contiguous().view(-1))
             # decoder_input: [batch_size * beam_size]
 
             # Turn any copied words to UNKS
@@ -180,11 +185,13 @@ class SequenceGenerator(object):
             # run one step of decoding
             # [flattened_batch, vocab_size], [dec_layers, flattened_batch, decoder_size], [flattened_batch, memory_bank_size], [flattened_batch, src_len], [flattened_batch, src_len]
             decoder_dist, decoder_state, context, attn_dist, _, coverage = \
-                self.model.decoder(decoder_input, topic_represent, decoder_state, memory_bank, src_mask, max_num_oov, src_oov, coverage)
+                self.model.decoder(decoder_input, topic_represent, decoder_state, memory_bank, src_mask, max_num_oov,
+                                   src_oov, coverage)
             log_decoder_dist = torch.log(decoder_dist + EPS)
 
             if self.review_attn:
-                decoder_memory_bank = torch.cat([decoder_memory_bank, decoder_state[-1, :, :].unsqueeze(1)], dim=1)  # [batch_size * beam_size, t+1, decoder_size]
+                decoder_memory_bank = torch.cat([decoder_memory_bank, decoder_state[-1, :, :].unsqueeze(1)],
+                                                dim=1)  # [batch_size * beam_size, t+1, decoder_size]
 
             # Compute a vector of batch x beam word scores
             log_decoder_dist = log_decoder_dist.view(beam_size, batch_size, -1)  # [beam_size, batch_size, vocab_size]
@@ -212,9 +219,11 @@ class SequenceGenerator(object):
                 hyp, att = b.get_hyp(times, k)
                 hyps.append(hyp)
                 attn.append(att)
-            ret["predictions"].append(hyps)  # 3d list of idx (zero dim tensor), with len [batch_size, n_best, output_seq_len]
+            ret["predictions"].append(
+                hyps)  # 3d list of idx (zero dim tensor), with len [batch_size, n_best, output_seq_len]
             ret['scores'].append(scores)  # a 2d list of zero dim tensor, with len [batch_size, n_best]
-            ret["attention"].append(attn)  # a 2d list of FloatTensor[output sequence length, src_len] , with len [batch_size, n_best]
+            ret["attention"].append(
+                attn)  # a 2d list of FloatTensor[output sequence length, src_len] , with len [batch_size, n_best]
             # hyp[::-1]: a list of idx (zero dim tensor), with len = output sequence length
             # torch.stack(attn): FloatTensor, with size: [output sequence length, src_len]
         return ret
@@ -228,17 +237,20 @@ class SequenceGenerator(object):
         """
         decoder_layers, flattened_batch_size, decoder_size = list(decoder_state.size())
         assert flattened_batch_size % self.beam_size == 0
-        original_batch_size = flattened_batch_size//self.beam_size
+        original_batch_size = flattened_batch_size // self.beam_size
         # select the hidden states of a particular batch, [dec_layers, batch_size * beam_size, decoder_size] -> [dec_layers, beam_size, decoder_size]
-        decoder_state_transformed = decoder_state.view(decoder_layers, self.beam_size, original_batch_size, decoder_size)[:, :, batch_idx]
+        decoder_state_transformed = decoder_state.view(decoder_layers, self.beam_size, original_batch_size,
+                                                       decoder_size)[:, :, batch_idx]
         # select the hidden states of the beams specified by the beam_indices -> [dec_layers, beam_size, decoder_size]
         decoder_state_transformed.data.copy_(decoder_state_transformed.data.index_select(1, beam_indices))
 
         if decoder_memory_bank is not None:
             # [batch_size * beam_size, t+1, decoder_size] -> [beam_size, t-1, decoder_size]
-            decoder_memory_bank_transformed = decoder_memory_bank.view(self.beam_size, original_batch_size, -1, decoder_size)[:, batch_idx, :, :]
+            decoder_memory_bank_transformed = decoder_memory_bank.view(self.beam_size, original_batch_size, -1,
+                                                                       decoder_size)[:, batch_idx, :, :]
             # select the hidden states of the beams specified by the beam_indices -> [beam_size, t-1, decoder_size]
-            decoder_memory_bank_transformed.data.copy_(decoder_memory_bank_transformed.data.index_select(0, beam_indices))
+            decoder_memory_bank_transformed.data.copy_(
+                decoder_memory_bank_transformed.data.index_select(0, beam_indices))
 
     def sample_concat(self, src, src_lens, src_oov, src_mask, oov_lists, max_sample_length, greedy=False):
         # src, src_lens, src_oov, src_mask, oov_lists, word2idx
@@ -257,8 +269,10 @@ class SequenceGenerator(object):
 
         # Encoding
         memory_bank, encoder_final_state = self.model.encoder(src, src_lens)
-        assert memory_bank.size() == torch.Size([batch_size, max_src_len, self.model.num_directions * self.model.encoder_size])
-        assert encoder_final_state.size() == torch.Size([batch_size, self.model.num_directions * self.model.encoder_size])
+        assert memory_bank.size() == torch.Size(
+            [batch_size, max_src_len, self.model.num_directions * self.model.encoder_size])
+        assert encoder_final_state.size() == torch.Size(
+            [batch_size, self.model.num_directions * self.model.encoder_size])
 
         # Init decoder state
         decoder_state = self.model.init_decoder_state(encoder_final_state)  # [dec_layers, batch_size, decoder_size]
@@ -272,9 +286,9 @@ class SequenceGenerator(object):
         decoder_input = src.new_ones(batch_size) * self.bos_idx  # [batch_size]
         sample_list = [{"prediction": [], "attention": [], "done": False} for _ in range(batch_size)]
         log_selected_token_dist = []
-        #prediction_all = src.new_ones(batch_size, max_sample_length) * self.pad_idx
+        # prediction_all = src.new_ones(batch_size, max_sample_length) * self.pad_idx
 
-        #unfinished_mask = torch.ones(batch_size, 1).type(torch.ByteTensor)  # all seqs in a batch are unfinihsed at the beginning
+        # unfinished_mask = torch.ones(batch_size, 1).type(torch.ByteTensor)  # all seqs in a batch are unfinihsed at the beginning
         unfinished_mask = src.new_ones((batch_size, 1), dtype=torch.uint8)
         unfinished_mask_all = [unfinished_mask]
 
@@ -309,28 +323,29 @@ class SequenceGenerator(object):
 
             prediction = prediction * unfinished_mask.type_as(prediction)
 
-            #prediction_all[:, t] = prediction[:, 0]
+            # prediction_all[:, t] = prediction[:, 0]
             decoder_input = prediction[:, 0]  # [batch]
 
             if all((s['done'] for s in sample_list)):
                 break
 
-            if t < max_sample_length -1:
+            if t < max_sample_length - 1:
                 unfinished_mask = unfinished_mask_all[-1] * torch.ne(prediction, self.eos_idx)
                 unfinished_mask_all.append(unfinished_mask)
 
         log_selected_token_dist = torch.cat(log_selected_token_dist, dim=1)  # [batch, t]
-        assert log_selected_token_dist.size() == torch.Size([batch_size, t+1])
-        #output_mask = torch.ne(prediction_all, self.pad_idx)[:, :t+1]  # [batch, t]
-        #output_mask = output_mask.type(torch.FloatTensor).to(src.device)
+        assert log_selected_token_dist.size() == torch.Size([batch_size, t + 1])
+        # output_mask = torch.ne(prediction_all, self.pad_idx)[:, :t+1]  # [batch, t]
+        # output_mask = output_mask.type(torch.FloatTensor).to(src.device)
 
         unfinished_mask_all = torch.cat(unfinished_mask_all, dim=1).type_as(log_selected_token_dist)
         assert unfinished_mask_all.size() == log_selected_token_dist.size()
-        #assert output_mask.size() == log_selected_token_dist.size()
+        # assert output_mask.size() == log_selected_token_dist.size()
 
         return sample_list, log_selected_token_dist, unfinished_mask_all
 
-    def sample(self, src, src_lens, src_oov, src_mask, oov_lists, max_sample_length, greedy=False, one2many=False, one2many_mode=1, num_predictions=1, perturb_std=0, entropy_regularize=False):
+    def sample(self, src, src_lens, src_oov, src_mask, oov_lists, max_sample_length, greedy=False, one2many=False,
+               one2many_mode=1, num_predictions=1, perturb_std=0, entropy_regularize=False):
         # src, src_lens, src_oov, src_mask, oov_lists, word2idx
         """
         :param src: a LongTensor containing the word indices of source sentences, [batch, src_seq_len], with oov words replaced by unk idx
@@ -347,8 +362,10 @@ class SequenceGenerator(object):
 
         # Encoding
         memory_bank, encoder_final_state = self.model.encoder(src, src_lens)
-        assert memory_bank.size() == torch.Size([batch_size, max_src_len, self.model.num_directions * self.model.encoder_size])
-        assert encoder_final_state.size() == torch.Size([batch_size, self.model.num_directions * self.model.encoder_size])
+        assert memory_bank.size() == torch.Size(
+            [batch_size, max_src_len, self.model.num_directions * self.model.encoder_size])
+        assert encoder_final_state.size() == torch.Size(
+            [batch_size, self.model.num_directions * self.model.encoder_size])
         if greedy and entropy_regularize:
             raise ValueError("When using greedy, should not use entropy regularization.")
 
@@ -357,7 +374,8 @@ class SequenceGenerator(object):
 
         if self.model.use_target_encoder:
             # init the hidden state of target encoder to zero vector
-            h_t_te = h_t_init.new_zeros(1, batch_size, self.model.target_encoder_size)  # [1, batch_size, target_encoder_size]
+            h_t_te = h_t_init.new_zeros(1, batch_size,
+                                        self.model.target_encoder_size)  # [1, batch_size, target_encoder_size]
 
         if self.coverage_attn:
             coverage = torch.zeros_like(src, dtype=torch.float)  # [batch, max_src_seq]
@@ -374,12 +392,13 @@ class SequenceGenerator(object):
         y_t_init = src.new_ones(batch_size) * self.bos_idx  # [batch_size]
         sample_list = [{"prediction": [], "attention": [], "done": False} for _ in range(batch_size)]
         log_selected_token_dist = []
-        #prediction_all = src.new_ones(batch_size, max_sample_length) * self.pad_idx
+        # prediction_all = src.new_ones(batch_size, max_sample_length) * self.pad_idx
 
-        unfinished_mask = src.new_ones((batch_size, 1), dtype=torch.uint8)  # all seqs in a batch are unfinished at the beginning
+        unfinished_mask = src.new_ones((batch_size, 1),
+                                       dtype=torch.uint8)  # all seqs in a batch are unfinished at the beginning
         unfinished_mask_all = [unfinished_mask]
         pred_counters = src.new_zeros(batch_size, dtype=torch.uint8)  # [batch_size]
-        #pred_idx_all = []  # store the idx of prediction (e.g., the i-th prediction) for each token
+        # pred_idx_all = []  # store the idx of prediction (e.g., the i-th prediction) for each token
         re_init_indicators = y_t_init == self.eos_idx
         eos_idx_mask_all = [re_init_indicators.unsqueeze(1)]
 
@@ -397,7 +416,7 @@ class SequenceGenerator(object):
                 unfinished_mask = unfinished_mask.unsqueeze(1)
                 unfinished_mask_all.append(unfinished_mask)
 
-            #pred_idx_all.append(pred_counters.clone().unsqueeze(1))
+            # pred_idx_all.append(pred_counters.clone().unsqueeze(1))
 
             if t == 0:
                 h_t = h_t_init
@@ -406,7 +425,7 @@ class SequenceGenerator(object):
                 h_t = []
                 y_t = []
                 for batch_idx, (indicator, pred_count) in enumerate(
-                    zip(re_init_indicators, pred_counters)):
+                        zip(re_init_indicators, pred_counters)):
                     if indicator.item() == 1 and pred_count.item() < num_predictions:
                         # some examples complete one keyphrase
                         h_t.append(h_t_init[:, batch_idx, :].unsqueeze(1))
@@ -420,7 +439,7 @@ class SequenceGenerator(object):
                 h_t = h_t_next
                 y_t = []
                 for batch_idx, (indicator, pred_count) in enumerate(
-                    zip(re_init_indicators, pred_counters)):
+                        zip(re_init_indicators, pred_counters)):
                     if indicator.item() == 1 and pred_count.item() < num_predictions:
                         # some examples complete one keyphrase
                         # reset input to <BOS>
@@ -434,7 +453,8 @@ class SequenceGenerator(object):
                                 perturb_std_at_t = perturb_std
                             '''
                             perturb_std_at_t = perturb_std / pred_count.item()
-                            h_t = h_t + torch.normal(mean=0.0, std=torch.ones_like(h_t) * perturb_std_at_t)  # [dec_layers, batch_size, decoder_size]
+                            h_t = h_t + torch.normal(mean=0.0, std=torch.ones_like(
+                                h_t) * perturb_std_at_t)  # [dec_layers, batch_size, decoder_size]
                     else:  # indicator.item() == 0 or indicator.item() == 1 and pred_count.item() == num_predictions:
                         y_t.append(y_t_next[batch_idx].unsqueeze(0))
                 y_t = torch.cat(y_t, dim=0)  # [batch_size]
@@ -444,7 +464,8 @@ class SequenceGenerator(object):
 
             if self.review_attn:
                 if t > 0:
-                    decoder_memory_bank = torch.cat([decoder_memory_bank, h_t[-1, :, :].unsqueeze(1)], dim=1)  # [batch, t+1, decoder_size]
+                    decoder_memory_bank = torch.cat([decoder_memory_bank, h_t[-1, :, :].unsqueeze(1)],
+                                                    dim=1)  # [batch, t+1, decoder_size]
 
             # Turn any copied words to UNKS
             if self.copy_attn:
@@ -460,12 +481,14 @@ class SequenceGenerator(object):
 
             # [batch, vocab_size], [dec_layers, batch, decoder_size], [batch, memory_bank_size], [batch, src_len], [batch, src_len]
             decoder_dist, h_t_next, context, attn_dist, _, coverage = \
-                self.model.decoder(y_t, h_t, memory_bank, src_mask, max_num_oov, src_oov, coverage, decoder_memory_bank, h_t_te)
+                self.model.decoder(y_t, h_t, memory_bank, src_mask, max_num_oov, src_oov, coverage, decoder_memory_bank,
+                                   h_t_te)
 
             log_decoder_dist = torch.log(decoder_dist + EPS)  # [batch, vocab_size]
 
             if entropy_regularize:
-                entropy -= torch.bmm(decoder_dist.unsqueeze(1), log_decoder_dist.unsqueeze(2)).view(batch_size)  # [batch]
+                entropy -= torch.bmm(decoder_dist.unsqueeze(1), log_decoder_dist.unsqueeze(2)).view(
+                    batch_size)  # [batch]
 
             if greedy:  # greedy decoding, only use in self-critical
                 selected_token_dist, prediction = torch.max(decoder_dist, 1)
@@ -481,7 +504,8 @@ class SequenceGenerator(object):
                 if not sample['done']:
                     sample['prediction'].append(prediction[batch_idx][0])  # 0 dim tensor
                     sample['attention'].append(attn_dist[batch_idx])  # [src_len] tensor
-                    if int(prediction[batch_idx][0].item()) == self.model.eos_idx and pred_counters[batch_idx].item() == num_predictions-1:
+                    if int(prediction[batch_idx][0].item()) == self.model.eos_idx and pred_counters[
+                        batch_idx].item() == num_predictions - 1:
                         sample['done'] = True
                 else:
                     pass
@@ -494,7 +518,7 @@ class SequenceGenerator(object):
             if all((s['done'] for s in sample_list)):
                 break
 
-            #if t < max_sample_length - 1:
+            # if t < max_sample_length - 1:
             #    #unfinished_mask = unfinished_mask_all[-1] * torch.ne(prediction, self.eos_idx)
             #    unfinished_mask = pred_counters < num_predictions
             #    unfinished_mask_all.append(unfinished_mask)
@@ -503,21 +527,21 @@ class SequenceGenerator(object):
             sample['attention'] = torch.stack(sample['attention'], dim=0)  # [trg_len, src_len]
 
         log_selected_token_dist = torch.cat(log_selected_token_dist, dim=1)  # [batch, t]
-        assert log_selected_token_dist.size() == torch.Size([batch_size, t+1])
-        #output_mask = torch.ne(prediction_all, self.pad_idx)[:, :t+1]  # [batch, t]
-        #output_mask = output_mask.type(torch.FloatTensor).to(src.device)
+        assert log_selected_token_dist.size() == torch.Size([batch_size, t + 1])
+        # output_mask = torch.ne(prediction_all, self.pad_idx)[:, :t+1]  # [batch, t]
+        # output_mask = output_mask.type(torch.FloatTensor).to(src.device)
 
         unfinished_mask_all = torch.cat(unfinished_mask_all, dim=1).type_as(log_selected_token_dist)
         assert unfinished_mask_all.size() == log_selected_token_dist.size()
-        #assert output_mask.size() == log_selected_token_dist.size()
+        # assert output_mask.size() == log_selected_token_dist.size()
 
-        #pred_idx_all = torch.cat(pred_idx_all, dim=1).type(torch.LongTensor).to(src.device)
-        #assert pred_idx_all.size() == log_selected_token_dist.size()
+        # pred_idx_all = torch.cat(pred_idx_all, dim=1).type(torch.LongTensor).to(src.device)
+        # assert pred_idx_all.size() == log_selected_token_dist.size()
 
         eos_idx_mask_all = torch.cat(eos_idx_mask_all, dim=1).to(src.device)
         assert eos_idx_mask_all.size() == log_selected_token_dist.size()
 
-        #return sample_list, log_selected_token_dist, unfinished_mask_all, pred_idx_all
+        # return sample_list, log_selected_token_dist, unfinished_mask_all, pred_idx_all
         """
         if entropy_regularize:
             return sample_list, log_selected_token_dist, unfinished_mask_all, eos_idx_mask_all, entropy
@@ -526,7 +550,8 @@ class SequenceGenerator(object):
         """
         return sample_list, log_selected_token_dist, unfinished_mask_all, eos_idx_mask_all, entropy
 
-    def sample_reset(self, src, src_lens, src_oov, src_mask, oov_lists, max_sample_length, greedy=False, one2many=False, one2many_mode=1, num_predictions=1):
+    def sample_reset(self, src, src_lens, src_oov, src_mask, oov_lists, max_sample_length, greedy=False, one2many=False,
+                     one2many_mode=1, num_predictions=1):
         # src, src_lens, src_oov, src_mask, oov_lists, word2idx
         """
         :param src: a LongTensor containing the word indices of source sentences, [batch, src_seq_len], with oov words replaced by unk idx
@@ -543,8 +568,10 @@ class SequenceGenerator(object):
 
         # Encoding
         memory_bank, encoder_final_state = self.model.encoder(src, src_lens)
-        assert memory_bank.size() == torch.Size([batch_size, max_src_len, self.model.num_directions * self.model.encoder_size])
-        assert encoder_final_state.size() == torch.Size([batch_size, self.model.num_directions * self.model.encoder_size])
+        assert memory_bank.size() == torch.Size(
+            [batch_size, max_src_len, self.model.num_directions * self.model.encoder_size])
+        assert encoder_final_state.size() == torch.Size(
+            [batch_size, self.model.num_directions * self.model.encoder_size])
 
         # Init decoder state
         h_t_init = self.model.init_decoder_state(encoder_final_state)  # [dec_layers, batch_size, decoder_size]
@@ -558,9 +585,10 @@ class SequenceGenerator(object):
         y_t_init = src.new_ones(batch_size) * self.bos_idx  # [batch_size]
         sample_list = [{"prediction": [], "attention": [], "done": False} for _ in range(batch_size)]
         log_selected_token_dist = []
-        #prediction_all = src.new_ones(batch_size, max_sample_length) * self.pad_idx
+        # prediction_all = src.new_ones(batch_size, max_sample_length) * self.pad_idx
 
-        unfinished_mask = src.new_ones((batch_size, 1), dtype=torch.uint8)  # all seqs in a batch are unfinished at the beginning
+        unfinished_mask = src.new_ones((batch_size, 1),
+                                       dtype=torch.uint8)  # all seqs in a batch are unfinished at the beginning
         unfinished_mask_all = [unfinished_mask]
         pred_counters = src.new_zeros(batch_size, dtype=torch.uint8)  # [batch_size]
 
@@ -579,7 +607,7 @@ class SequenceGenerator(object):
                 h_t = []
                 y_t = []
                 for batch_idx, (indicator, pred_count) in enumerate(
-                    zip(re_init_indicators, pred_counters)):
+                        zip(re_init_indicators, pred_counters)):
                     if indicator.item() == 1 and pred_count.item() < num_predictions:
                         # some examples complete one keyphrase
                         h_t.append(h_t_init[:, batch_idx, :].unsqueeze(1))
@@ -616,7 +644,8 @@ class SequenceGenerator(object):
                 if not sample['done']:
                     sample['prediction'].append(prediction[batch_idx][0])  # 0 dim tensor
                     sample['attention'].append(attn_dist[batch_idx])  # [src_len] tensor
-                    if int(prediction[batch_idx][0].item()) == self.model.eos_idx and pred_counters[batch_idx].item() == num_predictions-1:
+                    if int(prediction[batch_idx][0].item()) == self.model.eos_idx and pred_counters[
+                        batch_idx].item() == num_predictions - 1:
                         sample['done'] = True
                 else:
                     pass
@@ -629,18 +658,18 @@ class SequenceGenerator(object):
             if all((s['done'] for s in sample_list)):
                 break
 
-            #if t < max_sample_length - 1:
+            # if t < max_sample_length - 1:
             #    #unfinished_mask = unfinished_mask_all[-1] * torch.ne(prediction, self.eos_idx)
             #    unfinished_mask = pred_counters < num_predictions
             #    unfinished_mask_all.append(unfinished_mask)
 
         log_selected_token_dist = torch.cat(log_selected_token_dist, dim=1)  # [batch, t]
-        assert log_selected_token_dist.size() == torch.Size([batch_size, t+1])
-        #output_mask = torch.ne(prediction_all, self.pad_idx)[:, :t+1]  # [batch, t]
-        #output_mask = output_mask.type(torch.FloatTensor).to(src.device)
+        assert log_selected_token_dist.size() == torch.Size([batch_size, t + 1])
+        # output_mask = torch.ne(prediction_all, self.pad_idx)[:, :t+1]  # [batch, t]
+        # output_mask = output_mask.type(torch.FloatTensor).to(src.device)
 
         unfinished_mask_all = torch.cat(unfinished_mask_all, dim=1).type_as(log_selected_token_dist)
         assert unfinished_mask_all.size() == log_selected_token_dist.size()
-        #assert output_mask.size() == log_selected_token_dist.size()
+        # assert output_mask.size() == log_selected_token_dist.size()
 
         return sample_list, log_selected_token_dist, unfinished_mask_all
