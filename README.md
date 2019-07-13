@@ -63,11 +63,11 @@ max_trg_len: Max length of the target sequence
 ```
 
 ### Training
-Only train the seq2seq model, run: `python train.py -data_tag Weibo_s100_t10`.
+Only train the seq2seq model, run: `python train.py -data_tag Weibo_s100_t10`. To train with copy mechanism, add `-copy_attention`.
 
 Only train the neural topic model, run: `python train.py -data_tag Weibo_s100_t10 -only_train_ntm -ntm_warm_up_epochs [epoch_num, e.g., 100]`.
 
-Jointly train the TAKG model, run: `python train.py -data_tag Weibo_s100_t10  -use_topic_represent -load_pretrain_ntm  -joint_train  -topic_attn -check_pt_ntm_model_path [the warmed up ntm model path]`.
+Jointly train the TAKG model, run: `python train.py -data_tag Weibo_s100_t10  -copy_attention -use_topic_represent -load_pretrain_ntm  -joint_train  -topic_attn -check_pt_ntm_model_path [the warmed up ntm model path]`.
 
 There are some common arguments about different joint training strategies and model variants:
 ```
