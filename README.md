@@ -1,5 +1,5 @@
 # TAKG
-The official implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://arxiv.org/pdf/1906.03889.pdf)" (**TAKG**).
+The official implementation of ACL 2019 paper "[**T**opic-**A**ware Neural **K**eyphrase **G**eneration for Social Media Language](https://www.aclweb.org/anthology/P19-1240)" (**TAKG**).
 This is a joint work with [NLP Center at Tencent AI Lab](https://ai.tencent.com/ailab/nlp/). Some scripts for drawing figures in the paper can be found [here](https://github.com/yuewang-cuhk/DrawFigureForPaper).
 
 
@@ -105,15 +105,21 @@ It will output the performance in different metrics including _Precision_, _Reca
 ## Citation
 If you use either the code or data in your paper, please kindly star this repo and cite our paper:
 ```
-@inproceedings{conf/acl/yuewang19,
-  author    = {Yue Wang and
-               Jing Li and
-               Hou Pong Chan and
-               Irwin King and 
-               Michael R. Lyu and                             
-               Shuming Shi},
-  title     = {Topic-Aware Neural Keyphrase Generation for Social Media Language},
-  booktitle = {Proceedings of ACL},
-  year      = {2019}
+@inproceedings{wang-etal-2019-topic-aware,
+    title = "Topic-Aware Neural Keyphrase Generation for Social Media Language",
+    author = "Wang, Yue  and
+      Li, Jing  and
+      Chan, Hou Pong  and
+      King, Irwin  and
+      Lyu, Michael R.  and
+      Shi, Shuming",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1240",
+    pages = "2516--2526",
+    abstract = "A huge volume of user-generated content is daily produced on social media. To facilitate automatic language understanding, we study keyphrase prediction, distilling salient information from massive posts. While most existing methods extract words from source posts to form keyphrases, we propose a sequence-to-sequence (seq2seq) based neural keyphrase generation framework, enabling absent keyphrases to be created. Moreover, our model, being topic-aware, allows joint modeling of corpus-level latent topic representations, which helps alleviate data sparsity widely exhibited in social media language. Experiments on three datasets collected from English and Chinese social media platforms show that our model significantly outperforms both extraction and generation models without exploiting latent topics. Further discussions show that our model learns meaningful topics, which interprets its superiority in social media keyphrase generation.",
 }
 ```
